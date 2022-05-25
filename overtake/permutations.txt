@@ -1,0 +1,2640 @@
+Permutation: 0
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 5, ego_lane_pos: 10, ego_lane_id: -1, npc_speed_factor: 1.25, 
+Permutation: 1
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 5, ego_lane_pos: 10, ego_lane_id: -1, npc_speed_factor: 1.625, 
+Permutation: 2
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 5, ego_lane_pos: 10, ego_lane_id: -1, npc_speed_factor: 2.0, 
+Permutation: 3
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 5, ego_lane_pos: 10, ego_lane_id: -1.9, npc_speed_factor: 1.25, 
+Permutation: 4
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 5, ego_lane_pos: 10, ego_lane_id: -1.9, npc_speed_factor: 1.625, 
+Permutation: 5
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 5, ego_lane_pos: 10, ego_lane_id: -1.9, npc_speed_factor: 2.0, 
+Permutation: 6
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 5, ego_lane_pos: 10, ego_lane_id: -2.1, npc_speed_factor: 1.25, 
+Permutation: 7
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 5, ego_lane_pos: 10, ego_lane_id: -2.1, npc_speed_factor: 1.625, 
+Permutation: 8
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 5, ego_lane_pos: 10, ego_lane_id: -2.1, npc_speed_factor: 2.0, 
+Permutation: 9
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 5, ego_lane_pos: 10, ego_lane_id: -3, npc_speed_factor: 1.25, 
+Permutation: 10
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 5, ego_lane_pos: 10, ego_lane_id: -3, npc_speed_factor: 1.625, 
+Permutation: 11
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 5, ego_lane_pos: 10, ego_lane_id: -3, npc_speed_factor: 2.0, 
+Permutation: 12
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 5, ego_lane_pos: 15, ego_lane_id: -1, npc_speed_factor: 1.25, 
+Permutation: 13
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 5, ego_lane_pos: 15, ego_lane_id: -1, npc_speed_factor: 1.625, 
+Permutation: 14
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 5, ego_lane_pos: 15, ego_lane_id: -1, npc_speed_factor: 2.0, 
+Permutation: 15
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 5, ego_lane_pos: 15, ego_lane_id: -1.9, npc_speed_factor: 1.25, 
+Permutation: 16
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 5, ego_lane_pos: 15, ego_lane_id: -1.9, npc_speed_factor: 1.625, 
+Permutation: 17
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 5, ego_lane_pos: 15, ego_lane_id: -1.9, npc_speed_factor: 2.0, 
+Permutation: 18
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 5, ego_lane_pos: 15, ego_lane_id: -2.1, npc_speed_factor: 1.25, 
+Permutation: 19
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 5, ego_lane_pos: 15, ego_lane_id: -2.1, npc_speed_factor: 1.625, 
+Permutation: 20
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 5, ego_lane_pos: 15, ego_lane_id: -2.1, npc_speed_factor: 2.0, 
+Permutation: 21
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 5, ego_lane_pos: 15, ego_lane_id: -3, npc_speed_factor: 1.25, 
+Permutation: 22
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 5, ego_lane_pos: 15, ego_lane_id: -3, npc_speed_factor: 1.625, 
+Permutation: 23
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 5, ego_lane_pos: 15, ego_lane_id: -3, npc_speed_factor: 2.0, 
+Permutation: 24
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 6, ego_lane_pos: 10, ego_lane_id: -1, npc_speed_factor: 1.25, 
+Permutation: 25
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 6, ego_lane_pos: 10, ego_lane_id: -1, npc_speed_factor: 1.625, 
+Permutation: 26
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 6, ego_lane_pos: 10, ego_lane_id: -1, npc_speed_factor: 2.0, 
+Permutation: 27
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 6, ego_lane_pos: 10, ego_lane_id: -1.9, npc_speed_factor: 1.25, 
+Permutation: 28
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 6, ego_lane_pos: 10, ego_lane_id: -1.9, npc_speed_factor: 1.625, 
+Permutation: 29
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 6, ego_lane_pos: 10, ego_lane_id: -1.9, npc_speed_factor: 2.0, 
+Permutation: 30
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 6, ego_lane_pos: 10, ego_lane_id: -2.1, npc_speed_factor: 1.25, 
+Permutation: 31
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 6, ego_lane_pos: 10, ego_lane_id: -2.1, npc_speed_factor: 1.625, 
+Permutation: 32
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 6, ego_lane_pos: 10, ego_lane_id: -2.1, npc_speed_factor: 2.0, 
+Permutation: 33
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 6, ego_lane_pos: 10, ego_lane_id: -3, npc_speed_factor: 1.25, 
+Permutation: 34
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 6, ego_lane_pos: 10, ego_lane_id: -3, npc_speed_factor: 1.625, 
+Permutation: 35
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 6, ego_lane_pos: 10, ego_lane_id: -3, npc_speed_factor: 2.0, 
+Permutation: 36
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 6, ego_lane_pos: 15, ego_lane_id: -1, npc_speed_factor: 1.25, 
+Permutation: 37
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 6, ego_lane_pos: 15, ego_lane_id: -1, npc_speed_factor: 1.625, 
+Permutation: 38
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 6, ego_lane_pos: 15, ego_lane_id: -1, npc_speed_factor: 2.0, 
+Permutation: 39
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 6, ego_lane_pos: 15, ego_lane_id: -1.9, npc_speed_factor: 1.25, 
+Permutation: 40
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 6, ego_lane_pos: 15, ego_lane_id: -1.9, npc_speed_factor: 1.625, 
+Permutation: 41
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 6, ego_lane_pos: 15, ego_lane_id: -1.9, npc_speed_factor: 2.0, 
+Permutation: 42
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 6, ego_lane_pos: 15, ego_lane_id: -2.1, npc_speed_factor: 1.25, 
+Permutation: 43
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 6, ego_lane_pos: 15, ego_lane_id: -2.1, npc_speed_factor: 1.625, 
+Permutation: 44
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 6, ego_lane_pos: 15, ego_lane_id: -2.1, npc_speed_factor: 2.0, 
+Permutation: 45
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 6, ego_lane_pos: 15, ego_lane_id: -3, npc_speed_factor: 1.25, 
+Permutation: 46
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 6, ego_lane_pos: 15, ego_lane_id: -3, npc_speed_factor: 1.625, 
+Permutation: 47
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 6, ego_lane_pos: 15, ego_lane_id: -3, npc_speed_factor: 2.0, 
+Permutation: 48
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 7, ego_lane_pos: 10, ego_lane_id: -1, npc_speed_factor: 1.25, 
+Permutation: 49
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 7, ego_lane_pos: 10, ego_lane_id: -1, npc_speed_factor: 1.625, 
+Permutation: 50
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 7, ego_lane_pos: 10, ego_lane_id: -1, npc_speed_factor: 2.0, 
+Permutation: 51
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 7, ego_lane_pos: 10, ego_lane_id: -1.9, npc_speed_factor: 1.25, 
+Permutation: 52
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 7, ego_lane_pos: 10, ego_lane_id: -1.9, npc_speed_factor: 1.625, 
+Permutation: 53
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 7, ego_lane_pos: 10, ego_lane_id: -1.9, npc_speed_factor: 2.0, 
+Permutation: 54
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 7, ego_lane_pos: 10, ego_lane_id: -2.1, npc_speed_factor: 1.25, 
+Permutation: 55
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 7, ego_lane_pos: 10, ego_lane_id: -2.1, npc_speed_factor: 1.625, 
+Permutation: 56
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 7, ego_lane_pos: 10, ego_lane_id: -2.1, npc_speed_factor: 2.0, 
+Permutation: 57
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 7, ego_lane_pos: 10, ego_lane_id: -3, npc_speed_factor: 1.25, 
+Permutation: 58
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 7, ego_lane_pos: 10, ego_lane_id: -3, npc_speed_factor: 1.625, 
+Permutation: 59
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 7, ego_lane_pos: 10, ego_lane_id: -3, npc_speed_factor: 2.0, 
+Permutation: 60
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 7, ego_lane_pos: 15, ego_lane_id: -1, npc_speed_factor: 1.25, 
+Permutation: 61
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 7, ego_lane_pos: 15, ego_lane_id: -1, npc_speed_factor: 1.625, 
+Permutation: 62
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 7, ego_lane_pos: 15, ego_lane_id: -1, npc_speed_factor: 2.0, 
+Permutation: 63
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 7, ego_lane_pos: 15, ego_lane_id: -1.9, npc_speed_factor: 1.25, 
+Permutation: 64
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 7, ego_lane_pos: 15, ego_lane_id: -1.9, npc_speed_factor: 1.625, 
+Permutation: 65
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 7, ego_lane_pos: 15, ego_lane_id: -1.9, npc_speed_factor: 2.0, 
+Permutation: 66
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 7, ego_lane_pos: 15, ego_lane_id: -2.1, npc_speed_factor: 1.25, 
+Permutation: 67
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 7, ego_lane_pos: 15, ego_lane_id: -2.1, npc_speed_factor: 1.625, 
+Permutation: 68
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 7, ego_lane_pos: 15, ego_lane_id: -2.1, npc_speed_factor: 2.0, 
+Permutation: 69
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 7, ego_lane_pos: 15, ego_lane_id: -3, npc_speed_factor: 1.25, 
+Permutation: 70
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 7, ego_lane_pos: 15, ego_lane_id: -3, npc_speed_factor: 1.625, 
+Permutation: 71
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 7, ego_lane_pos: 15, ego_lane_id: -3, npc_speed_factor: 2.0, 
+Permutation: 72
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 8, ego_lane_pos: 10, ego_lane_id: -1, npc_speed_factor: 1.25, 
+Permutation: 73
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 8, ego_lane_pos: 10, ego_lane_id: -1, npc_speed_factor: 1.625, 
+Permutation: 74
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 8, ego_lane_pos: 10, ego_lane_id: -1, npc_speed_factor: 2.0, 
+Permutation: 75
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 8, ego_lane_pos: 10, ego_lane_id: -1.9, npc_speed_factor: 1.25, 
+Permutation: 76
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 8, ego_lane_pos: 10, ego_lane_id: -1.9, npc_speed_factor: 1.625, 
+Permutation: 77
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 8, ego_lane_pos: 10, ego_lane_id: -1.9, npc_speed_factor: 2.0, 
+Permutation: 78
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 8, ego_lane_pos: 10, ego_lane_id: -2.1, npc_speed_factor: 1.25, 
+Permutation: 79
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 8, ego_lane_pos: 10, ego_lane_id: -2.1, npc_speed_factor: 1.625, 
+Permutation: 80
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 8, ego_lane_pos: 10, ego_lane_id: -2.1, npc_speed_factor: 2.0, 
+Permutation: 81
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 8, ego_lane_pos: 10, ego_lane_id: -3, npc_speed_factor: 1.25, 
+Permutation: 82
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 8, ego_lane_pos: 10, ego_lane_id: -3, npc_speed_factor: 1.625, 
+Permutation: 83
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 8, ego_lane_pos: 10, ego_lane_id: -3, npc_speed_factor: 2.0, 
+Permutation: 84
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 8, ego_lane_pos: 15, ego_lane_id: -1, npc_speed_factor: 1.25, 
+Permutation: 85
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 8, ego_lane_pos: 15, ego_lane_id: -1, npc_speed_factor: 1.625, 
+Permutation: 86
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 8, ego_lane_pos: 15, ego_lane_id: -1, npc_speed_factor: 2.0, 
+Permutation: 87
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 8, ego_lane_pos: 15, ego_lane_id: -1.9, npc_speed_factor: 1.25, 
+Permutation: 88
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 8, ego_lane_pos: 15, ego_lane_id: -1.9, npc_speed_factor: 1.625, 
+Permutation: 89
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 8, ego_lane_pos: 15, ego_lane_id: -1.9, npc_speed_factor: 2.0, 
+Permutation: 90
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 8, ego_lane_pos: 15, ego_lane_id: -2.1, npc_speed_factor: 1.25, 
+Permutation: 91
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 8, ego_lane_pos: 15, ego_lane_id: -2.1, npc_speed_factor: 1.625, 
+Permutation: 92
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 8, ego_lane_pos: 15, ego_lane_id: -2.1, npc_speed_factor: 2.0, 
+Permutation: 93
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 8, ego_lane_pos: 15, ego_lane_id: -3, npc_speed_factor: 1.25, 
+Permutation: 94
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 8, ego_lane_pos: 15, ego_lane_id: -3, npc_speed_factor: 1.625, 
+Permutation: 95
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 8, ego_lane_pos: 15, ego_lane_id: -3, npc_speed_factor: 2.0, 
+Permutation: 96
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 9, ego_lane_pos: 10, ego_lane_id: -1, npc_speed_factor: 1.25, 
+Permutation: 97
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 9, ego_lane_pos: 10, ego_lane_id: -1, npc_speed_factor: 1.625, 
+Permutation: 98
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 9, ego_lane_pos: 10, ego_lane_id: -1, npc_speed_factor: 2.0, 
+Permutation: 99
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 9, ego_lane_pos: 10, ego_lane_id: -1.9, npc_speed_factor: 1.25, 
+Permutation: 100
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 9, ego_lane_pos: 10, ego_lane_id: -1.9, npc_speed_factor: 1.625, 
+Permutation: 101
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 9, ego_lane_pos: 10, ego_lane_id: -1.9, npc_speed_factor: 2.0, 
+Permutation: 102
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 9, ego_lane_pos: 10, ego_lane_id: -2.1, npc_speed_factor: 1.25, 
+Permutation: 103
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 9, ego_lane_pos: 10, ego_lane_id: -2.1, npc_speed_factor: 1.625, 
+Permutation: 104
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 9, ego_lane_pos: 10, ego_lane_id: -2.1, npc_speed_factor: 2.0, 
+Permutation: 105
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 9, ego_lane_pos: 10, ego_lane_id: -3, npc_speed_factor: 1.25, 
+Permutation: 106
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 9, ego_lane_pos: 10, ego_lane_id: -3, npc_speed_factor: 1.625, 
+Permutation: 107
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 9, ego_lane_pos: 10, ego_lane_id: -3, npc_speed_factor: 2.0, 
+Permutation: 108
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 9, ego_lane_pos: 15, ego_lane_id: -1, npc_speed_factor: 1.25, 
+Permutation: 109
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 9, ego_lane_pos: 15, ego_lane_id: -1, npc_speed_factor: 1.625, 
+Permutation: 110
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 9, ego_lane_pos: 15, ego_lane_id: -1, npc_speed_factor: 2.0, 
+Permutation: 111
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 9, ego_lane_pos: 15, ego_lane_id: -1.9, npc_speed_factor: 1.25, 
+Permutation: 112
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 9, ego_lane_pos: 15, ego_lane_id: -1.9, npc_speed_factor: 1.625, 
+Permutation: 113
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 9, ego_lane_pos: 15, ego_lane_id: -1.9, npc_speed_factor: 2.0, 
+Permutation: 114
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 9, ego_lane_pos: 15, ego_lane_id: -2.1, npc_speed_factor: 1.25, 
+Permutation: 115
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 9, ego_lane_pos: 15, ego_lane_id: -2.1, npc_speed_factor: 1.625, 
+Permutation: 116
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 9, ego_lane_pos: 15, ego_lane_id: -2.1, npc_speed_factor: 2.0, 
+Permutation: 117
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 9, ego_lane_pos: 15, ego_lane_id: -3, npc_speed_factor: 1.25, 
+Permutation: 118
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 9, ego_lane_pos: 15, ego_lane_id: -3, npc_speed_factor: 1.625, 
+Permutation: 119
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 9, ego_lane_pos: 15, ego_lane_id: -3, npc_speed_factor: 2.0, 
+Permutation: 120
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 10, ego_lane_pos: 10, ego_lane_id: -1, npc_speed_factor: 1.25, 
+Permutation: 121
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 10, ego_lane_pos: 10, ego_lane_id: -1, npc_speed_factor: 1.625, 
+Permutation: 122
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 10, ego_lane_pos: 10, ego_lane_id: -1, npc_speed_factor: 2.0, 
+Permutation: 123
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 10, ego_lane_pos: 10, ego_lane_id: -1.9, npc_speed_factor: 1.25, 
+Permutation: 124
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 10, ego_lane_pos: 10, ego_lane_id: -1.9, npc_speed_factor: 1.625, 
+Permutation: 125
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 10, ego_lane_pos: 10, ego_lane_id: -1.9, npc_speed_factor: 2.0, 
+Permutation: 126
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 10, ego_lane_pos: 10, ego_lane_id: -2.1, npc_speed_factor: 1.25, 
+Permutation: 127
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 10, ego_lane_pos: 10, ego_lane_id: -2.1, npc_speed_factor: 1.625, 
+Permutation: 128
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 10, ego_lane_pos: 10, ego_lane_id: -2.1, npc_speed_factor: 2.0, 
+Permutation: 129
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 10, ego_lane_pos: 10, ego_lane_id: -3, npc_speed_factor: 1.25, 
+Permutation: 130
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 10, ego_lane_pos: 10, ego_lane_id: -3, npc_speed_factor: 1.625, 
+Permutation: 131
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 10, ego_lane_pos: 10, ego_lane_id: -3, npc_speed_factor: 2.0, 
+Permutation: 132
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 10, ego_lane_pos: 15, ego_lane_id: -1, npc_speed_factor: 1.25, 
+Permutation: 133
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 10, ego_lane_pos: 15, ego_lane_id: -1, npc_speed_factor: 1.625, 
+Permutation: 134
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 10, ego_lane_pos: 15, ego_lane_id: -1, npc_speed_factor: 2.0, 
+Permutation: 135
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 10, ego_lane_pos: 15, ego_lane_id: -1.9, npc_speed_factor: 1.25, 
+Permutation: 136
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 10, ego_lane_pos: 15, ego_lane_id: -1.9, npc_speed_factor: 1.625, 
+Permutation: 137
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 10, ego_lane_pos: 15, ego_lane_id: -1.9, npc_speed_factor: 2.0, 
+Permutation: 138
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 10, ego_lane_pos: 15, ego_lane_id: -2.1, npc_speed_factor: 1.25, 
+Permutation: 139
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 10, ego_lane_pos: 15, ego_lane_id: -2.1, npc_speed_factor: 1.625, 
+Permutation: 140
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 10, ego_lane_pos: 15, ego_lane_id: -2.1, npc_speed_factor: 2.0, 
+Permutation: 141
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 10, ego_lane_pos: 15, ego_lane_id: -3, npc_speed_factor: 1.25, 
+Permutation: 142
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 10, ego_lane_pos: 15, ego_lane_id: -3, npc_speed_factor: 1.625, 
+Permutation: 143
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 10, ego_lane_pos: 15, ego_lane_id: -3, npc_speed_factor: 2.0, 
+Permutation: 144
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 11, ego_lane_pos: 10, ego_lane_id: -1, npc_speed_factor: 1.25, 
+Permutation: 145
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 11, ego_lane_pos: 10, ego_lane_id: -1, npc_speed_factor: 1.625, 
+Permutation: 146
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 11, ego_lane_pos: 10, ego_lane_id: -1, npc_speed_factor: 2.0, 
+Permutation: 147
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 11, ego_lane_pos: 10, ego_lane_id: -1.9, npc_speed_factor: 1.25, 
+Permutation: 148
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 11, ego_lane_pos: 10, ego_lane_id: -1.9, npc_speed_factor: 1.625, 
+Permutation: 149
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 11, ego_lane_pos: 10, ego_lane_id: -1.9, npc_speed_factor: 2.0, 
+Permutation: 150
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 11, ego_lane_pos: 10, ego_lane_id: -2.1, npc_speed_factor: 1.25, 
+Permutation: 151
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 11, ego_lane_pos: 10, ego_lane_id: -2.1, npc_speed_factor: 1.625, 
+Permutation: 152
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 11, ego_lane_pos: 10, ego_lane_id: -2.1, npc_speed_factor: 2.0, 
+Permutation: 153
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 11, ego_lane_pos: 10, ego_lane_id: -3, npc_speed_factor: 1.25, 
+Permutation: 154
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 11, ego_lane_pos: 10, ego_lane_id: -3, npc_speed_factor: 1.625, 
+Permutation: 155
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 11, ego_lane_pos: 10, ego_lane_id: -3, npc_speed_factor: 2.0, 
+Permutation: 156
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 11, ego_lane_pos: 15, ego_lane_id: -1, npc_speed_factor: 1.25, 
+Permutation: 157
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 11, ego_lane_pos: 15, ego_lane_id: -1, npc_speed_factor: 1.625, 
+Permutation: 158
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 11, ego_lane_pos: 15, ego_lane_id: -1, npc_speed_factor: 2.0, 
+Permutation: 159
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 11, ego_lane_pos: 15, ego_lane_id: -1.9, npc_speed_factor: 1.25, 
+Permutation: 160
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 11, ego_lane_pos: 15, ego_lane_id: -1.9, npc_speed_factor: 1.625, 
+Permutation: 161
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 11, ego_lane_pos: 15, ego_lane_id: -1.9, npc_speed_factor: 2.0, 
+Permutation: 162
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 11, ego_lane_pos: 15, ego_lane_id: -2.1, npc_speed_factor: 1.25, 
+Permutation: 163
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 11, ego_lane_pos: 15, ego_lane_id: -2.1, npc_speed_factor: 1.625, 
+Permutation: 164
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 11, ego_lane_pos: 15, ego_lane_id: -2.1, npc_speed_factor: 2.0, 
+Permutation: 165
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 11, ego_lane_pos: 15, ego_lane_id: -3, npc_speed_factor: 1.25, 
+Permutation: 166
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 11, ego_lane_pos: 15, ego_lane_id: -3, npc_speed_factor: 1.625, 
+Permutation: 167
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 11, ego_lane_pos: 15, ego_lane_id: -3, npc_speed_factor: 2.0, 
+Permutation: 168
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 12, ego_lane_pos: 10, ego_lane_id: -1, npc_speed_factor: 1.25, 
+Permutation: 169
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 12, ego_lane_pos: 10, ego_lane_id: -1, npc_speed_factor: 1.625, 
+Permutation: 170
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 12, ego_lane_pos: 10, ego_lane_id: -1, npc_speed_factor: 2.0, 
+Permutation: 171
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 12, ego_lane_pos: 10, ego_lane_id: -1.9, npc_speed_factor: 1.25, 
+Permutation: 172
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 12, ego_lane_pos: 10, ego_lane_id: -1.9, npc_speed_factor: 1.625, 
+Permutation: 173
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 12, ego_lane_pos: 10, ego_lane_id: -1.9, npc_speed_factor: 2.0, 
+Permutation: 174
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 12, ego_lane_pos: 10, ego_lane_id: -2.1, npc_speed_factor: 1.25, 
+Permutation: 175
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 12, ego_lane_pos: 10, ego_lane_id: -2.1, npc_speed_factor: 1.625, 
+Permutation: 176
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 12, ego_lane_pos: 10, ego_lane_id: -2.1, npc_speed_factor: 2.0, 
+Permutation: 177
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 12, ego_lane_pos: 10, ego_lane_id: -3, npc_speed_factor: 1.25, 
+Permutation: 178
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 12, ego_lane_pos: 10, ego_lane_id: -3, npc_speed_factor: 1.625, 
+Permutation: 179
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 12, ego_lane_pos: 10, ego_lane_id: -3, npc_speed_factor: 2.0, 
+Permutation: 180
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 12, ego_lane_pos: 15, ego_lane_id: -1, npc_speed_factor: 1.25, 
+Permutation: 181
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 12, ego_lane_pos: 15, ego_lane_id: -1, npc_speed_factor: 1.625, 
+Permutation: 182
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 12, ego_lane_pos: 15, ego_lane_id: -1, npc_speed_factor: 2.0, 
+Permutation: 183
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 12, ego_lane_pos: 15, ego_lane_id: -1.9, npc_speed_factor: 1.25, 
+Permutation: 184
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 12, ego_lane_pos: 15, ego_lane_id: -1.9, npc_speed_factor: 1.625, 
+Permutation: 185
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 12, ego_lane_pos: 15, ego_lane_id: -1.9, npc_speed_factor: 2.0, 
+Permutation: 186
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 12, ego_lane_pos: 15, ego_lane_id: -2.1, npc_speed_factor: 1.25, 
+Permutation: 187
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 12, ego_lane_pos: 15, ego_lane_id: -2.1, npc_speed_factor: 1.625, 
+Permutation: 188
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 12, ego_lane_pos: 15, ego_lane_id: -2.1, npc_speed_factor: 2.0, 
+Permutation: 189
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 12, ego_lane_pos: 15, ego_lane_id: -3, npc_speed_factor: 1.25, 
+Permutation: 190
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 12, ego_lane_pos: 15, ego_lane_id: -3, npc_speed_factor: 1.625, 
+Permutation: 191
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 12, ego_lane_pos: 15, ego_lane_id: -3, npc_speed_factor: 2.0, 
+Permutation: 192
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 13, ego_lane_pos: 10, ego_lane_id: -1, npc_speed_factor: 1.25, 
+Permutation: 193
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 13, ego_lane_pos: 10, ego_lane_id: -1, npc_speed_factor: 1.625, 
+Permutation: 194
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 13, ego_lane_pos: 10, ego_lane_id: -1, npc_speed_factor: 2.0, 
+Permutation: 195
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 13, ego_lane_pos: 10, ego_lane_id: -1.9, npc_speed_factor: 1.25, 
+Permutation: 196
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 13, ego_lane_pos: 10, ego_lane_id: -1.9, npc_speed_factor: 1.625, 
+Permutation: 197
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 13, ego_lane_pos: 10, ego_lane_id: -1.9, npc_speed_factor: 2.0, 
+Permutation: 198
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 13, ego_lane_pos: 10, ego_lane_id: -2.1, npc_speed_factor: 1.25, 
+Permutation: 199
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 13, ego_lane_pos: 10, ego_lane_id: -2.1, npc_speed_factor: 1.625, 
+Permutation: 200
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 13, ego_lane_pos: 10, ego_lane_id: -2.1, npc_speed_factor: 2.0, 
+Permutation: 201
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 13, ego_lane_pos: 10, ego_lane_id: -3, npc_speed_factor: 1.25, 
+Permutation: 202
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 13, ego_lane_pos: 10, ego_lane_id: -3, npc_speed_factor: 1.625, 
+Permutation: 203
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 13, ego_lane_pos: 10, ego_lane_id: -3, npc_speed_factor: 2.0, 
+Permutation: 204
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 13, ego_lane_pos: 15, ego_lane_id: -1, npc_speed_factor: 1.25, 
+Permutation: 205
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 13, ego_lane_pos: 15, ego_lane_id: -1, npc_speed_factor: 1.625, 
+Permutation: 206
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 13, ego_lane_pos: 15, ego_lane_id: -1, npc_speed_factor: 2.0, 
+Permutation: 207
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 13, ego_lane_pos: 15, ego_lane_id: -1.9, npc_speed_factor: 1.25, 
+Permutation: 208
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 13, ego_lane_pos: 15, ego_lane_id: -1.9, npc_speed_factor: 1.625, 
+Permutation: 209
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 13, ego_lane_pos: 15, ego_lane_id: -1.9, npc_speed_factor: 2.0, 
+Permutation: 210
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 13, ego_lane_pos: 15, ego_lane_id: -2.1, npc_speed_factor: 1.25, 
+Permutation: 211
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 13, ego_lane_pos: 15, ego_lane_id: -2.1, npc_speed_factor: 1.625, 
+Permutation: 212
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 13, ego_lane_pos: 15, ego_lane_id: -2.1, npc_speed_factor: 2.0, 
+Permutation: 213
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 13, ego_lane_pos: 15, ego_lane_id: -3, npc_speed_factor: 1.25, 
+Permutation: 214
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 13, ego_lane_pos: 15, ego_lane_id: -3, npc_speed_factor: 1.625, 
+Permutation: 215
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 13, ego_lane_pos: 15, ego_lane_id: -3, npc_speed_factor: 2.0, 
+Permutation: 216
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 14, ego_lane_pos: 10, ego_lane_id: -1, npc_speed_factor: 1.25, 
+Permutation: 217
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 14, ego_lane_pos: 10, ego_lane_id: -1, npc_speed_factor: 1.625, 
+Permutation: 218
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 14, ego_lane_pos: 10, ego_lane_id: -1, npc_speed_factor: 2.0, 
+Permutation: 219
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 14, ego_lane_pos: 10, ego_lane_id: -1.9, npc_speed_factor: 1.25, 
+Permutation: 220
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 14, ego_lane_pos: 10, ego_lane_id: -1.9, npc_speed_factor: 1.625, 
+Permutation: 221
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 14, ego_lane_pos: 10, ego_lane_id: -1.9, npc_speed_factor: 2.0, 
+Permutation: 222
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 14, ego_lane_pos: 10, ego_lane_id: -2.1, npc_speed_factor: 1.25, 
+Permutation: 223
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 14, ego_lane_pos: 10, ego_lane_id: -2.1, npc_speed_factor: 1.625, 
+Permutation: 224
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 14, ego_lane_pos: 10, ego_lane_id: -2.1, npc_speed_factor: 2.0, 
+Permutation: 225
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 14, ego_lane_pos: 10, ego_lane_id: -3, npc_speed_factor: 1.25, 
+Permutation: 226
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 14, ego_lane_pos: 10, ego_lane_id: -3, npc_speed_factor: 1.625, 
+Permutation: 227
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 14, ego_lane_pos: 10, ego_lane_id: -3, npc_speed_factor: 2.0, 
+Permutation: 228
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 14, ego_lane_pos: 15, ego_lane_id: -1, npc_speed_factor: 1.25, 
+Permutation: 229
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 14, ego_lane_pos: 15, ego_lane_id: -1, npc_speed_factor: 1.625, 
+Permutation: 230
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 14, ego_lane_pos: 15, ego_lane_id: -1, npc_speed_factor: 2.0, 
+Permutation: 231
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 14, ego_lane_pos: 15, ego_lane_id: -1.9, npc_speed_factor: 1.25, 
+Permutation: 232
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 14, ego_lane_pos: 15, ego_lane_id: -1.9, npc_speed_factor: 1.625, 
+Permutation: 233
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 14, ego_lane_pos: 15, ego_lane_id: -1.9, npc_speed_factor: 2.0, 
+Permutation: 234
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 14, ego_lane_pos: 15, ego_lane_id: -2.1, npc_speed_factor: 1.25, 
+Permutation: 235
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 14, ego_lane_pos: 15, ego_lane_id: -2.1, npc_speed_factor: 1.625, 
+Permutation: 236
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 14, ego_lane_pos: 15, ego_lane_id: -2.1, npc_speed_factor: 2.0, 
+Permutation: 237
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 14, ego_lane_pos: 15, ego_lane_id: -3, npc_speed_factor: 1.25, 
+Permutation: 238
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 14, ego_lane_pos: 15, ego_lane_id: -3, npc_speed_factor: 1.625, 
+Permutation: 239
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 14, ego_lane_pos: 15, ego_lane_id: -3, npc_speed_factor: 2.0, 
+Permutation: 240
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 15, ego_lane_pos: 10, ego_lane_id: -1, npc_speed_factor: 1.25, 
+Permutation: 241
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 15, ego_lane_pos: 10, ego_lane_id: -1, npc_speed_factor: 1.625, 
+Permutation: 242
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 15, ego_lane_pos: 10, ego_lane_id: -1, npc_speed_factor: 2.0, 
+Permutation: 243
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 15, ego_lane_pos: 10, ego_lane_id: -1.9, npc_speed_factor: 1.25, 
+Permutation: 244
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 15, ego_lane_pos: 10, ego_lane_id: -1.9, npc_speed_factor: 1.625, 
+Permutation: 245
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 15, ego_lane_pos: 10, ego_lane_id: -1.9, npc_speed_factor: 2.0, 
+Permutation: 246
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 15, ego_lane_pos: 10, ego_lane_id: -2.1, npc_speed_factor: 1.25, 
+Permutation: 247
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 15, ego_lane_pos: 10, ego_lane_id: -2.1, npc_speed_factor: 1.625, 
+Permutation: 248
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 15, ego_lane_pos: 10, ego_lane_id: -2.1, npc_speed_factor: 2.0, 
+Permutation: 249
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 15, ego_lane_pos: 10, ego_lane_id: -3, npc_speed_factor: 1.25, 
+Permutation: 250
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 15, ego_lane_pos: 10, ego_lane_id: -3, npc_speed_factor: 1.625, 
+Permutation: 251
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 15, ego_lane_pos: 10, ego_lane_id: -3, npc_speed_factor: 2.0, 
+Permutation: 252
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 15, ego_lane_pos: 15, ego_lane_id: -1, npc_speed_factor: 1.25, 
+Permutation: 253
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 15, ego_lane_pos: 15, ego_lane_id: -1, npc_speed_factor: 1.625, 
+Permutation: 254
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 15, ego_lane_pos: 15, ego_lane_id: -1, npc_speed_factor: 2.0, 
+Permutation: 255
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 15, ego_lane_pos: 15, ego_lane_id: -1.9, npc_speed_factor: 1.25, 
+Permutation: 256
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 15, ego_lane_pos: 15, ego_lane_id: -1.9, npc_speed_factor: 1.625, 
+Permutation: 257
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 15, ego_lane_pos: 15, ego_lane_id: -1.9, npc_speed_factor: 2.0, 
+Permutation: 258
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 15, ego_lane_pos: 15, ego_lane_id: -2.1, npc_speed_factor: 1.25, 
+Permutation: 259
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 15, ego_lane_pos: 15, ego_lane_id: -2.1, npc_speed_factor: 1.625, 
+Permutation: 260
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 15, ego_lane_pos: 15, ego_lane_id: -2.1, npc_speed_factor: 2.0, 
+Permutation: 261
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 15, ego_lane_pos: 15, ego_lane_id: -3, npc_speed_factor: 1.25, 
+Permutation: 262
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 15, ego_lane_pos: 15, ego_lane_id: -3, npc_speed_factor: 1.625, 
+Permutation: 263
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 15, ego_lane_pos: 15, ego_lane_id: -3, npc_speed_factor: 2.0, 
+Permutation: 264
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 16, ego_lane_pos: 10, ego_lane_id: -1, npc_speed_factor: 1.25, 
+Permutation: 265
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 16, ego_lane_pos: 10, ego_lane_id: -1, npc_speed_factor: 1.625, 
+Permutation: 266
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 16, ego_lane_pos: 10, ego_lane_id: -1, npc_speed_factor: 2.0, 
+Permutation: 267
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 16, ego_lane_pos: 10, ego_lane_id: -1.9, npc_speed_factor: 1.25, 
+Permutation: 268
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 16, ego_lane_pos: 10, ego_lane_id: -1.9, npc_speed_factor: 1.625, 
+Permutation: 269
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 16, ego_lane_pos: 10, ego_lane_id: -1.9, npc_speed_factor: 2.0, 
+Permutation: 270
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 16, ego_lane_pos: 10, ego_lane_id: -2.1, npc_speed_factor: 1.25, 
+Permutation: 271
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 16, ego_lane_pos: 10, ego_lane_id: -2.1, npc_speed_factor: 1.625, 
+Permutation: 272
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 16, ego_lane_pos: 10, ego_lane_id: -2.1, npc_speed_factor: 2.0, 
+Permutation: 273
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 16, ego_lane_pos: 10, ego_lane_id: -3, npc_speed_factor: 1.25, 
+Permutation: 274
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 16, ego_lane_pos: 10, ego_lane_id: -3, npc_speed_factor: 1.625, 
+Permutation: 275
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 16, ego_lane_pos: 10, ego_lane_id: -3, npc_speed_factor: 2.0, 
+Permutation: 276
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 16, ego_lane_pos: 15, ego_lane_id: -1, npc_speed_factor: 1.25, 
+Permutation: 277
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 16, ego_lane_pos: 15, ego_lane_id: -1, npc_speed_factor: 1.625, 
+Permutation: 278
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 16, ego_lane_pos: 15, ego_lane_id: -1, npc_speed_factor: 2.0, 
+Permutation: 279
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 16, ego_lane_pos: 15, ego_lane_id: -1.9, npc_speed_factor: 1.25, 
+Permutation: 280
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 16, ego_lane_pos: 15, ego_lane_id: -1.9, npc_speed_factor: 1.625, 
+Permutation: 281
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 16, ego_lane_pos: 15, ego_lane_id: -1.9, npc_speed_factor: 2.0, 
+Permutation: 282
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 16, ego_lane_pos: 15, ego_lane_id: -2.1, npc_speed_factor: 1.25, 
+Permutation: 283
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 16, ego_lane_pos: 15, ego_lane_id: -2.1, npc_speed_factor: 1.625, 
+Permutation: 284
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 16, ego_lane_pos: 15, ego_lane_id: -2.1, npc_speed_factor: 2.0, 
+Permutation: 285
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 16, ego_lane_pos: 15, ego_lane_id: -3, npc_speed_factor: 1.25, 
+Permutation: 286
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 16, ego_lane_pos: 15, ego_lane_id: -3, npc_speed_factor: 1.625, 
+Permutation: 287
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 16, ego_lane_pos: 15, ego_lane_id: -3, npc_speed_factor: 2.0, 
+Permutation: 288
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 17, ego_lane_pos: 10, ego_lane_id: -1, npc_speed_factor: 1.25, 
+Permutation: 289
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 17, ego_lane_pos: 10, ego_lane_id: -1, npc_speed_factor: 1.625, 
+Permutation: 290
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 17, ego_lane_pos: 10, ego_lane_id: -1, npc_speed_factor: 2.0, 
+Permutation: 291
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 17, ego_lane_pos: 10, ego_lane_id: -1.9, npc_speed_factor: 1.25, 
+Permutation: 292
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 17, ego_lane_pos: 10, ego_lane_id: -1.9, npc_speed_factor: 1.625, 
+Permutation: 293
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 17, ego_lane_pos: 10, ego_lane_id: -1.9, npc_speed_factor: 2.0, 
+Permutation: 294
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 17, ego_lane_pos: 10, ego_lane_id: -2.1, npc_speed_factor: 1.25, 
+Permutation: 295
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 17, ego_lane_pos: 10, ego_lane_id: -2.1, npc_speed_factor: 1.625, 
+Permutation: 296
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 17, ego_lane_pos: 10, ego_lane_id: -2.1, npc_speed_factor: 2.0, 
+Permutation: 297
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 17, ego_lane_pos: 10, ego_lane_id: -3, npc_speed_factor: 1.25, 
+Permutation: 298
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 17, ego_lane_pos: 10, ego_lane_id: -3, npc_speed_factor: 1.625, 
+Permutation: 299
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 17, ego_lane_pos: 10, ego_lane_id: -3, npc_speed_factor: 2.0, 
+Permutation: 300
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 17, ego_lane_pos: 15, ego_lane_id: -1, npc_speed_factor: 1.25, 
+Permutation: 301
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 17, ego_lane_pos: 15, ego_lane_id: -1, npc_speed_factor: 1.625, 
+Permutation: 302
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 17, ego_lane_pos: 15, ego_lane_id: -1, npc_speed_factor: 2.0, 
+Permutation: 303
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 17, ego_lane_pos: 15, ego_lane_id: -1.9, npc_speed_factor: 1.25, 
+Permutation: 304
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 17, ego_lane_pos: 15, ego_lane_id: -1.9, npc_speed_factor: 1.625, 
+Permutation: 305
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 17, ego_lane_pos: 15, ego_lane_id: -1.9, npc_speed_factor: 2.0, 
+Permutation: 306
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 17, ego_lane_pos: 15, ego_lane_id: -2.1, npc_speed_factor: 1.25, 
+Permutation: 307
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 17, ego_lane_pos: 15, ego_lane_id: -2.1, npc_speed_factor: 1.625, 
+Permutation: 308
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 17, ego_lane_pos: 15, ego_lane_id: -2.1, npc_speed_factor: 2.0, 
+Permutation: 309
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 17, ego_lane_pos: 15, ego_lane_id: -3, npc_speed_factor: 1.25, 
+Permutation: 310
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 17, ego_lane_pos: 15, ego_lane_id: -3, npc_speed_factor: 1.625, 
+Permutation: 311
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 17, ego_lane_pos: 15, ego_lane_id: -3, npc_speed_factor: 2.0, 
+Permutation: 312
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 18, ego_lane_pos: 10, ego_lane_id: -1, npc_speed_factor: 1.25, 
+Permutation: 313
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 18, ego_lane_pos: 10, ego_lane_id: -1, npc_speed_factor: 1.625, 
+Permutation: 314
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 18, ego_lane_pos: 10, ego_lane_id: -1, npc_speed_factor: 2.0, 
+Permutation: 315
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 18, ego_lane_pos: 10, ego_lane_id: -1.9, npc_speed_factor: 1.25, 
+Permutation: 316
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 18, ego_lane_pos: 10, ego_lane_id: -1.9, npc_speed_factor: 1.625, 
+Permutation: 317
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 18, ego_lane_pos: 10, ego_lane_id: -1.9, npc_speed_factor: 2.0, 
+Permutation: 318
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 18, ego_lane_pos: 10, ego_lane_id: -2.1, npc_speed_factor: 1.25, 
+Permutation: 319
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 18, ego_lane_pos: 10, ego_lane_id: -2.1, npc_speed_factor: 1.625, 
+Permutation: 320
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 18, ego_lane_pos: 10, ego_lane_id: -2.1, npc_speed_factor: 2.0, 
+Permutation: 321
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 18, ego_lane_pos: 10, ego_lane_id: -3, npc_speed_factor: 1.25, 
+Permutation: 322
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 18, ego_lane_pos: 10, ego_lane_id: -3, npc_speed_factor: 1.625, 
+Permutation: 323
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 18, ego_lane_pos: 10, ego_lane_id: -3, npc_speed_factor: 2.0, 
+Permutation: 324
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 18, ego_lane_pos: 15, ego_lane_id: -1, npc_speed_factor: 1.25, 
+Permutation: 325
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 18, ego_lane_pos: 15, ego_lane_id: -1, npc_speed_factor: 1.625, 
+Permutation: 326
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 18, ego_lane_pos: 15, ego_lane_id: -1, npc_speed_factor: 2.0, 
+Permutation: 327
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 18, ego_lane_pos: 15, ego_lane_id: -1.9, npc_speed_factor: 1.25, 
+Permutation: 328
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 18, ego_lane_pos: 15, ego_lane_id: -1.9, npc_speed_factor: 1.625, 
+Permutation: 329
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 18, ego_lane_pos: 15, ego_lane_id: -1.9, npc_speed_factor: 2.0, 
+Permutation: 330
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 18, ego_lane_pos: 15, ego_lane_id: -2.1, npc_speed_factor: 1.25, 
+Permutation: 331
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 18, ego_lane_pos: 15, ego_lane_id: -2.1, npc_speed_factor: 1.625, 
+Permutation: 332
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 18, ego_lane_pos: 15, ego_lane_id: -2.1, npc_speed_factor: 2.0, 
+Permutation: 333
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 18, ego_lane_pos: 15, ego_lane_id: -3, npc_speed_factor: 1.25, 
+Permutation: 334
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 18, ego_lane_pos: 15, ego_lane_id: -3, npc_speed_factor: 1.625, 
+Permutation: 335
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 18, ego_lane_pos: 15, ego_lane_id: -3, npc_speed_factor: 2.0, 
+Permutation: 336
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 19, ego_lane_pos: 10, ego_lane_id: -1, npc_speed_factor: 1.25, 
+Permutation: 337
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 19, ego_lane_pos: 10, ego_lane_id: -1, npc_speed_factor: 1.625, 
+Permutation: 338
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 19, ego_lane_pos: 10, ego_lane_id: -1, npc_speed_factor: 2.0, 
+Permutation: 339
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 19, ego_lane_pos: 10, ego_lane_id: -1.9, npc_speed_factor: 1.25, 
+Permutation: 340
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 19, ego_lane_pos: 10, ego_lane_id: -1.9, npc_speed_factor: 1.625, 
+Permutation: 341
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 19, ego_lane_pos: 10, ego_lane_id: -1.9, npc_speed_factor: 2.0, 
+Permutation: 342
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 19, ego_lane_pos: 10, ego_lane_id: -2.1, npc_speed_factor: 1.25, 
+Permutation: 343
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 19, ego_lane_pos: 10, ego_lane_id: -2.1, npc_speed_factor: 1.625, 
+Permutation: 344
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 19, ego_lane_pos: 10, ego_lane_id: -2.1, npc_speed_factor: 2.0, 
+Permutation: 345
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 19, ego_lane_pos: 10, ego_lane_id: -3, npc_speed_factor: 1.25, 
+Permutation: 346
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 19, ego_lane_pos: 10, ego_lane_id: -3, npc_speed_factor: 1.625, 
+Permutation: 347
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 19, ego_lane_pos: 10, ego_lane_id: -3, npc_speed_factor: 2.0, 
+Permutation: 348
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 19, ego_lane_pos: 15, ego_lane_id: -1, npc_speed_factor: 1.25, 
+Permutation: 349
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 19, ego_lane_pos: 15, ego_lane_id: -1, npc_speed_factor: 1.625, 
+Permutation: 350
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 19, ego_lane_pos: 15, ego_lane_id: -1, npc_speed_factor: 2.0, 
+Permutation: 351
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 19, ego_lane_pos: 15, ego_lane_id: -1.9, npc_speed_factor: 1.25, 
+Permutation: 352
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 19, ego_lane_pos: 15, ego_lane_id: -1.9, npc_speed_factor: 1.625, 
+Permutation: 353
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 19, ego_lane_pos: 15, ego_lane_id: -1.9, npc_speed_factor: 2.0, 
+Permutation: 354
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 19, ego_lane_pos: 15, ego_lane_id: -2.1, npc_speed_factor: 1.25, 
+Permutation: 355
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 19, ego_lane_pos: 15, ego_lane_id: -2.1, npc_speed_factor: 1.625, 
+Permutation: 356
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 19, ego_lane_pos: 15, ego_lane_id: -2.1, npc_speed_factor: 2.0, 
+Permutation: 357
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 19, ego_lane_pos: 15, ego_lane_id: -3, npc_speed_factor: 1.25, 
+Permutation: 358
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 19, ego_lane_pos: 15, ego_lane_id: -3, npc_speed_factor: 1.625, 
+Permutation: 359
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 19, ego_lane_pos: 15, ego_lane_id: -3, npc_speed_factor: 2.0, 
+Permutation: 360
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 20, ego_lane_pos: 10, ego_lane_id: -1, npc_speed_factor: 1.25, 
+Permutation: 361
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 20, ego_lane_pos: 10, ego_lane_id: -1, npc_speed_factor: 1.625, 
+Permutation: 362
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 20, ego_lane_pos: 10, ego_lane_id: -1, npc_speed_factor: 2.0, 
+Permutation: 363
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 20, ego_lane_pos: 10, ego_lane_id: -1.9, npc_speed_factor: 1.25, 
+Permutation: 364
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 20, ego_lane_pos: 10, ego_lane_id: -1.9, npc_speed_factor: 1.625, 
+Permutation: 365
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 20, ego_lane_pos: 10, ego_lane_id: -1.9, npc_speed_factor: 2.0, 
+Permutation: 366
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 20, ego_lane_pos: 10, ego_lane_id: -2.1, npc_speed_factor: 1.25, 
+Permutation: 367
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 20, ego_lane_pos: 10, ego_lane_id: -2.1, npc_speed_factor: 1.625, 
+Permutation: 368
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 20, ego_lane_pos: 10, ego_lane_id: -2.1, npc_speed_factor: 2.0, 
+Permutation: 369
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 20, ego_lane_pos: 10, ego_lane_id: -3, npc_speed_factor: 1.25, 
+Permutation: 370
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 20, ego_lane_pos: 10, ego_lane_id: -3, npc_speed_factor: 1.625, 
+Permutation: 371
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 20, ego_lane_pos: 10, ego_lane_id: -3, npc_speed_factor: 2.0, 
+Permutation: 372
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 20, ego_lane_pos: 15, ego_lane_id: -1, npc_speed_factor: 1.25, 
+Permutation: 373
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 20, ego_lane_pos: 15, ego_lane_id: -1, npc_speed_factor: 1.625, 
+Permutation: 374
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 20, ego_lane_pos: 15, ego_lane_id: -1, npc_speed_factor: 2.0, 
+Permutation: 375
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 20, ego_lane_pos: 15, ego_lane_id: -1.9, npc_speed_factor: 1.25, 
+Permutation: 376
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 20, ego_lane_pos: 15, ego_lane_id: -1.9, npc_speed_factor: 1.625, 
+Permutation: 377
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 20, ego_lane_pos: 15, ego_lane_id: -1.9, npc_speed_factor: 2.0, 
+Permutation: 378
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 20, ego_lane_pos: 15, ego_lane_id: -2.1, npc_speed_factor: 1.25, 
+Permutation: 379
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 20, ego_lane_pos: 15, ego_lane_id: -2.1, npc_speed_factor: 1.625, 
+Permutation: 380
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 20, ego_lane_pos: 15, ego_lane_id: -2.1, npc_speed_factor: 2.0, 
+Permutation: 381
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 20, ego_lane_pos: 15, ego_lane_id: -3, npc_speed_factor: 1.25, 
+Permutation: 382
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 20, ego_lane_pos: 15, ego_lane_id: -3, npc_speed_factor: 1.625, 
+Permutation: 383
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 20, ego_lane_pos: 15, ego_lane_id: -3, npc_speed_factor: 2.0, 
+Permutation: 384
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 21, ego_lane_pos: 10, ego_lane_id: -1, npc_speed_factor: 1.25, 
+Permutation: 385
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 21, ego_lane_pos: 10, ego_lane_id: -1, npc_speed_factor: 1.625, 
+Permutation: 386
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 21, ego_lane_pos: 10, ego_lane_id: -1, npc_speed_factor: 2.0, 
+Permutation: 387
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 21, ego_lane_pos: 10, ego_lane_id: -1.9, npc_speed_factor: 1.25, 
+Permutation: 388
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 21, ego_lane_pos: 10, ego_lane_id: -1.9, npc_speed_factor: 1.625, 
+Permutation: 389
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 21, ego_lane_pos: 10, ego_lane_id: -1.9, npc_speed_factor: 2.0, 
+Permutation: 390
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 21, ego_lane_pos: 10, ego_lane_id: -2.1, npc_speed_factor: 1.25, 
+Permutation: 391
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 21, ego_lane_pos: 10, ego_lane_id: -2.1, npc_speed_factor: 1.625, 
+Permutation: 392
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 21, ego_lane_pos: 10, ego_lane_id: -2.1, npc_speed_factor: 2.0, 
+Permutation: 393
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 21, ego_lane_pos: 10, ego_lane_id: -3, npc_speed_factor: 1.25, 
+Permutation: 394
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 21, ego_lane_pos: 10, ego_lane_id: -3, npc_speed_factor: 1.625, 
+Permutation: 395
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 21, ego_lane_pos: 10, ego_lane_id: -3, npc_speed_factor: 2.0, 
+Permutation: 396
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 21, ego_lane_pos: 15, ego_lane_id: -1, npc_speed_factor: 1.25, 
+Permutation: 397
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 21, ego_lane_pos: 15, ego_lane_id: -1, npc_speed_factor: 1.625, 
+Permutation: 398
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 21, ego_lane_pos: 15, ego_lane_id: -1, npc_speed_factor: 2.0, 
+Permutation: 399
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 21, ego_lane_pos: 15, ego_lane_id: -1.9, npc_speed_factor: 1.25, 
+Permutation: 400
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 21, ego_lane_pos: 15, ego_lane_id: -1.9, npc_speed_factor: 1.625, 
+Permutation: 401
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 21, ego_lane_pos: 15, ego_lane_id: -1.9, npc_speed_factor: 2.0, 
+Permutation: 402
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 21, ego_lane_pos: 15, ego_lane_id: -2.1, npc_speed_factor: 1.25, 
+Permutation: 403
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 21, ego_lane_pos: 15, ego_lane_id: -2.1, npc_speed_factor: 1.625, 
+Permutation: 404
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 21, ego_lane_pos: 15, ego_lane_id: -2.1, npc_speed_factor: 2.0, 
+Permutation: 405
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 21, ego_lane_pos: 15, ego_lane_id: -3, npc_speed_factor: 1.25, 
+Permutation: 406
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 21, ego_lane_pos: 15, ego_lane_id: -3, npc_speed_factor: 1.625, 
+Permutation: 407
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 21, ego_lane_pos: 15, ego_lane_id: -3, npc_speed_factor: 2.0, 
+Permutation: 408
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 22, ego_lane_pos: 10, ego_lane_id: -1, npc_speed_factor: 1.25, 
+Permutation: 409
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 22, ego_lane_pos: 10, ego_lane_id: -1, npc_speed_factor: 1.625, 
+Permutation: 410
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 22, ego_lane_pos: 10, ego_lane_id: -1, npc_speed_factor: 2.0, 
+Permutation: 411
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 22, ego_lane_pos: 10, ego_lane_id: -1.9, npc_speed_factor: 1.25, 
+Permutation: 412
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 22, ego_lane_pos: 10, ego_lane_id: -1.9, npc_speed_factor: 1.625, 
+Permutation: 413
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 22, ego_lane_pos: 10, ego_lane_id: -1.9, npc_speed_factor: 2.0, 
+Permutation: 414
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 22, ego_lane_pos: 10, ego_lane_id: -2.1, npc_speed_factor: 1.25, 
+Permutation: 415
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 22, ego_lane_pos: 10, ego_lane_id: -2.1, npc_speed_factor: 1.625, 
+Permutation: 416
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 22, ego_lane_pos: 10, ego_lane_id: -2.1, npc_speed_factor: 2.0, 
+Permutation: 417
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 22, ego_lane_pos: 10, ego_lane_id: -3, npc_speed_factor: 1.25, 
+Permutation: 418
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 22, ego_lane_pos: 10, ego_lane_id: -3, npc_speed_factor: 1.625, 
+Permutation: 419
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 22, ego_lane_pos: 10, ego_lane_id: -3, npc_speed_factor: 2.0, 
+Permutation: 420
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 22, ego_lane_pos: 15, ego_lane_id: -1, npc_speed_factor: 1.25, 
+Permutation: 421
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 22, ego_lane_pos: 15, ego_lane_id: -1, npc_speed_factor: 1.625, 
+Permutation: 422
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 22, ego_lane_pos: 15, ego_lane_id: -1, npc_speed_factor: 2.0, 
+Permutation: 423
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 22, ego_lane_pos: 15, ego_lane_id: -1.9, npc_speed_factor: 1.25, 
+Permutation: 424
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 22, ego_lane_pos: 15, ego_lane_id: -1.9, npc_speed_factor: 1.625, 
+Permutation: 425
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 22, ego_lane_pos: 15, ego_lane_id: -1.9, npc_speed_factor: 2.0, 
+Permutation: 426
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 22, ego_lane_pos: 15, ego_lane_id: -2.1, npc_speed_factor: 1.25, 
+Permutation: 427
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 22, ego_lane_pos: 15, ego_lane_id: -2.1, npc_speed_factor: 1.625, 
+Permutation: 428
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 22, ego_lane_pos: 15, ego_lane_id: -2.1, npc_speed_factor: 2.0, 
+Permutation: 429
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 22, ego_lane_pos: 15, ego_lane_id: -3, npc_speed_factor: 1.25, 
+Permutation: 430
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 22, ego_lane_pos: 15, ego_lane_id: -3, npc_speed_factor: 1.625, 
+Permutation: 431
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 22, ego_lane_pos: 15, ego_lane_id: -3, npc_speed_factor: 2.0, 
+Permutation: 432
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 23, ego_lane_pos: 10, ego_lane_id: -1, npc_speed_factor: 1.25, 
+Permutation: 433
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 23, ego_lane_pos: 10, ego_lane_id: -1, npc_speed_factor: 1.625, 
+Permutation: 434
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 23, ego_lane_pos: 10, ego_lane_id: -1, npc_speed_factor: 2.0, 
+Permutation: 435
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 23, ego_lane_pos: 10, ego_lane_id: -1.9, npc_speed_factor: 1.25, 
+Permutation: 436
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 23, ego_lane_pos: 10, ego_lane_id: -1.9, npc_speed_factor: 1.625, 
+Permutation: 437
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 23, ego_lane_pos: 10, ego_lane_id: -1.9, npc_speed_factor: 2.0, 
+Permutation: 438
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 23, ego_lane_pos: 10, ego_lane_id: -2.1, npc_speed_factor: 1.25, 
+Permutation: 439
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 23, ego_lane_pos: 10, ego_lane_id: -2.1, npc_speed_factor: 1.625, 
+Permutation: 440
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 23, ego_lane_pos: 10, ego_lane_id: -2.1, npc_speed_factor: 2.0, 
+Permutation: 441
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 23, ego_lane_pos: 10, ego_lane_id: -3, npc_speed_factor: 1.25, 
+Permutation: 442
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 23, ego_lane_pos: 10, ego_lane_id: -3, npc_speed_factor: 1.625, 
+Permutation: 443
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 23, ego_lane_pos: 10, ego_lane_id: -3, npc_speed_factor: 2.0, 
+Permutation: 444
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 23, ego_lane_pos: 15, ego_lane_id: -1, npc_speed_factor: 1.25, 
+Permutation: 445
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 23, ego_lane_pos: 15, ego_lane_id: -1, npc_speed_factor: 1.625, 
+Permutation: 446
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 23, ego_lane_pos: 15, ego_lane_id: -1, npc_speed_factor: 2.0, 
+Permutation: 447
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 23, ego_lane_pos: 15, ego_lane_id: -1.9, npc_speed_factor: 1.25, 
+Permutation: 448
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 23, ego_lane_pos: 15, ego_lane_id: -1.9, npc_speed_factor: 1.625, 
+Permutation: 449
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 23, ego_lane_pos: 15, ego_lane_id: -1.9, npc_speed_factor: 2.0, 
+Permutation: 450
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 23, ego_lane_pos: 15, ego_lane_id: -2.1, npc_speed_factor: 1.25, 
+Permutation: 451
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 23, ego_lane_pos: 15, ego_lane_id: -2.1, npc_speed_factor: 1.625, 
+Permutation: 452
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 23, ego_lane_pos: 15, ego_lane_id: -2.1, npc_speed_factor: 2.0, 
+Permutation: 453
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 23, ego_lane_pos: 15, ego_lane_id: -3, npc_speed_factor: 1.25, 
+Permutation: 454
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 23, ego_lane_pos: 15, ego_lane_id: -3, npc_speed_factor: 1.625, 
+Permutation: 455
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 23, ego_lane_pos: 15, ego_lane_id: -3, npc_speed_factor: 2.0, 
+Permutation: 456
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 24, ego_lane_pos: 10, ego_lane_id: -1, npc_speed_factor: 1.25, 
+Permutation: 457
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 24, ego_lane_pos: 10, ego_lane_id: -1, npc_speed_factor: 1.625, 
+Permutation: 458
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 24, ego_lane_pos: 10, ego_lane_id: -1, npc_speed_factor: 2.0, 
+Permutation: 459
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 24, ego_lane_pos: 10, ego_lane_id: -1.9, npc_speed_factor: 1.25, 
+Permutation: 460
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 24, ego_lane_pos: 10, ego_lane_id: -1.9, npc_speed_factor: 1.625, 
+Permutation: 461
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 24, ego_lane_pos: 10, ego_lane_id: -1.9, npc_speed_factor: 2.0, 
+Permutation: 462
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 24, ego_lane_pos: 10, ego_lane_id: -2.1, npc_speed_factor: 1.25, 
+Permutation: 463
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 24, ego_lane_pos: 10, ego_lane_id: -2.1, npc_speed_factor: 1.625, 
+Permutation: 464
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 24, ego_lane_pos: 10, ego_lane_id: -2.1, npc_speed_factor: 2.0, 
+Permutation: 465
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 24, ego_lane_pos: 10, ego_lane_id: -3, npc_speed_factor: 1.25, 
+Permutation: 466
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 24, ego_lane_pos: 10, ego_lane_id: -3, npc_speed_factor: 1.625, 
+Permutation: 467
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 24, ego_lane_pos: 10, ego_lane_id: -3, npc_speed_factor: 2.0, 
+Permutation: 468
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 24, ego_lane_pos: 15, ego_lane_id: -1, npc_speed_factor: 1.25, 
+Permutation: 469
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 24, ego_lane_pos: 15, ego_lane_id: -1, npc_speed_factor: 1.625, 
+Permutation: 470
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 24, ego_lane_pos: 15, ego_lane_id: -1, npc_speed_factor: 2.0, 
+Permutation: 471
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 24, ego_lane_pos: 15, ego_lane_id: -1.9, npc_speed_factor: 1.25, 
+Permutation: 472
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 24, ego_lane_pos: 15, ego_lane_id: -1.9, npc_speed_factor: 1.625, 
+Permutation: 473
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 24, ego_lane_pos: 15, ego_lane_id: -1.9, npc_speed_factor: 2.0, 
+Permutation: 474
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 24, ego_lane_pos: 15, ego_lane_id: -2.1, npc_speed_factor: 1.25, 
+Permutation: 475
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 24, ego_lane_pos: 15, ego_lane_id: -2.1, npc_speed_factor: 1.625, 
+Permutation: 476
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 24, ego_lane_pos: 15, ego_lane_id: -2.1, npc_speed_factor: 2.0, 
+Permutation: 477
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 24, ego_lane_pos: 15, ego_lane_id: -3, npc_speed_factor: 1.25, 
+Permutation: 478
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 24, ego_lane_pos: 15, ego_lane_id: -3, npc_speed_factor: 1.625, 
+Permutation: 479
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 24, ego_lane_pos: 15, ego_lane_id: -3, npc_speed_factor: 2.0, 
+Permutation: 480
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 25, ego_lane_pos: 10, ego_lane_id: -1, npc_speed_factor: 1.25, 
+Permutation: 481
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 25, ego_lane_pos: 10, ego_lane_id: -1, npc_speed_factor: 1.625, 
+Permutation: 482
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 25, ego_lane_pos: 10, ego_lane_id: -1, npc_speed_factor: 2.0, 
+Permutation: 483
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 25, ego_lane_pos: 10, ego_lane_id: -1.9, npc_speed_factor: 1.25, 
+Permutation: 484
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 25, ego_lane_pos: 10, ego_lane_id: -1.9, npc_speed_factor: 1.625, 
+Permutation: 485
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 25, ego_lane_pos: 10, ego_lane_id: -1.9, npc_speed_factor: 2.0, 
+Permutation: 486
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 25, ego_lane_pos: 10, ego_lane_id: -2.1, npc_speed_factor: 1.25, 
+Permutation: 487
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 25, ego_lane_pos: 10, ego_lane_id: -2.1, npc_speed_factor: 1.625, 
+Permutation: 488
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 25, ego_lane_pos: 10, ego_lane_id: -2.1, npc_speed_factor: 2.0, 
+Permutation: 489
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 25, ego_lane_pos: 10, ego_lane_id: -3, npc_speed_factor: 1.25, 
+Permutation: 490
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 25, ego_lane_pos: 10, ego_lane_id: -3, npc_speed_factor: 1.625, 
+Permutation: 491
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 25, ego_lane_pos: 10, ego_lane_id: -3, npc_speed_factor: 2.0, 
+Permutation: 492
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 25, ego_lane_pos: 15, ego_lane_id: -1, npc_speed_factor: 1.25, 
+Permutation: 493
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 25, ego_lane_pos: 15, ego_lane_id: -1, npc_speed_factor: 1.625, 
+Permutation: 494
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 25, ego_lane_pos: 15, ego_lane_id: -1, npc_speed_factor: 2.0, 
+Permutation: 495
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 25, ego_lane_pos: 15, ego_lane_id: -1.9, npc_speed_factor: 1.25, 
+Permutation: 496
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 25, ego_lane_pos: 15, ego_lane_id: -1.9, npc_speed_factor: 1.625, 
+Permutation: 497
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 25, ego_lane_pos: 15, ego_lane_id: -1.9, npc_speed_factor: 2.0, 
+Permutation: 498
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 25, ego_lane_pos: 15, ego_lane_id: -2.1, npc_speed_factor: 1.25, 
+Permutation: 499
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 25, ego_lane_pos: 15, ego_lane_id: -2.1, npc_speed_factor: 1.625, 
+Permutation: 500
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 25, ego_lane_pos: 15, ego_lane_id: -2.1, npc_speed_factor: 2.0, 
+Permutation: 501
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 25, ego_lane_pos: 15, ego_lane_id: -3, npc_speed_factor: 1.25, 
+Permutation: 502
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 25, ego_lane_pos: 15, ego_lane_id: -3, npc_speed_factor: 1.625, 
+Permutation: 503
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 25, ego_lane_pos: 15, ego_lane_id: -3, npc_speed_factor: 2.0, 
+Permutation: 504
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 26, ego_lane_pos: 10, ego_lane_id: -1, npc_speed_factor: 1.25, 
+Permutation: 505
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 26, ego_lane_pos: 10, ego_lane_id: -1, npc_speed_factor: 1.625, 
+Permutation: 506
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 26, ego_lane_pos: 10, ego_lane_id: -1, npc_speed_factor: 2.0, 
+Permutation: 507
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 26, ego_lane_pos: 10, ego_lane_id: -1.9, npc_speed_factor: 1.25, 
+Permutation: 508
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 26, ego_lane_pos: 10, ego_lane_id: -1.9, npc_speed_factor: 1.625, 
+Permutation: 509
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 26, ego_lane_pos: 10, ego_lane_id: -1.9, npc_speed_factor: 2.0, 
+Permutation: 510
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 26, ego_lane_pos: 10, ego_lane_id: -2.1, npc_speed_factor: 1.25, 
+Permutation: 511
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 26, ego_lane_pos: 10, ego_lane_id: -2.1, npc_speed_factor: 1.625, 
+Permutation: 512
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 26, ego_lane_pos: 10, ego_lane_id: -2.1, npc_speed_factor: 2.0, 
+Permutation: 513
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 26, ego_lane_pos: 10, ego_lane_id: -3, npc_speed_factor: 1.25, 
+Permutation: 514
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 26, ego_lane_pos: 10, ego_lane_id: -3, npc_speed_factor: 1.625, 
+Permutation: 515
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 26, ego_lane_pos: 10, ego_lane_id: -3, npc_speed_factor: 2.0, 
+Permutation: 516
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 26, ego_lane_pos: 15, ego_lane_id: -1, npc_speed_factor: 1.25, 
+Permutation: 517
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 26, ego_lane_pos: 15, ego_lane_id: -1, npc_speed_factor: 1.625, 
+Permutation: 518
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 26, ego_lane_pos: 15, ego_lane_id: -1, npc_speed_factor: 2.0, 
+Permutation: 519
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 26, ego_lane_pos: 15, ego_lane_id: -1.9, npc_speed_factor: 1.25, 
+Permutation: 520
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 26, ego_lane_pos: 15, ego_lane_id: -1.9, npc_speed_factor: 1.625, 
+Permutation: 521
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 26, ego_lane_pos: 15, ego_lane_id: -1.9, npc_speed_factor: 2.0, 
+Permutation: 522
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 26, ego_lane_pos: 15, ego_lane_id: -2.1, npc_speed_factor: 1.25, 
+Permutation: 523
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 26, ego_lane_pos: 15, ego_lane_id: -2.1, npc_speed_factor: 1.625, 
+Permutation: 524
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 26, ego_lane_pos: 15, ego_lane_id: -2.1, npc_speed_factor: 2.0, 
+Permutation: 525
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 26, ego_lane_pos: 15, ego_lane_id: -3, npc_speed_factor: 1.25, 
+Permutation: 526
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 26, ego_lane_pos: 15, ego_lane_id: -3, npc_speed_factor: 1.625, 
+Permutation: 527
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 26, ego_lane_pos: 15, ego_lane_id: -3, npc_speed_factor: 2.0, 
+Permutation: 528
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 27, ego_lane_pos: 10, ego_lane_id: -1, npc_speed_factor: 1.25, 
+Permutation: 529
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 27, ego_lane_pos: 10, ego_lane_id: -1, npc_speed_factor: 1.625, 
+Permutation: 530
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 27, ego_lane_pos: 10, ego_lane_id: -1, npc_speed_factor: 2.0, 
+Permutation: 531
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 27, ego_lane_pos: 10, ego_lane_id: -1.9, npc_speed_factor: 1.25, 
+Permutation: 532
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 27, ego_lane_pos: 10, ego_lane_id: -1.9, npc_speed_factor: 1.625, 
+Permutation: 533
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 27, ego_lane_pos: 10, ego_lane_id: -1.9, npc_speed_factor: 2.0, 
+Permutation: 534
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 27, ego_lane_pos: 10, ego_lane_id: -2.1, npc_speed_factor: 1.25, 
+Permutation: 535
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 27, ego_lane_pos: 10, ego_lane_id: -2.1, npc_speed_factor: 1.625, 
+Permutation: 536
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 27, ego_lane_pos: 10, ego_lane_id: -2.1, npc_speed_factor: 2.0, 
+Permutation: 537
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 27, ego_lane_pos: 10, ego_lane_id: -3, npc_speed_factor: 1.25, 
+Permutation: 538
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 27, ego_lane_pos: 10, ego_lane_id: -3, npc_speed_factor: 1.625, 
+Permutation: 539
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 27, ego_lane_pos: 10, ego_lane_id: -3, npc_speed_factor: 2.0, 
+Permutation: 540
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 27, ego_lane_pos: 15, ego_lane_id: -1, npc_speed_factor: 1.25, 
+Permutation: 541
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 27, ego_lane_pos: 15, ego_lane_id: -1, npc_speed_factor: 1.625, 
+Permutation: 542
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 27, ego_lane_pos: 15, ego_lane_id: -1, npc_speed_factor: 2.0, 
+Permutation: 543
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 27, ego_lane_pos: 15, ego_lane_id: -1.9, npc_speed_factor: 1.25, 
+Permutation: 544
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 27, ego_lane_pos: 15, ego_lane_id: -1.9, npc_speed_factor: 1.625, 
+Permutation: 545
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 27, ego_lane_pos: 15, ego_lane_id: -1.9, npc_speed_factor: 2.0, 
+Permutation: 546
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 27, ego_lane_pos: 15, ego_lane_id: -2.1, npc_speed_factor: 1.25, 
+Permutation: 547
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 27, ego_lane_pos: 15, ego_lane_id: -2.1, npc_speed_factor: 1.625, 
+Permutation: 548
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 27, ego_lane_pos: 15, ego_lane_id: -2.1, npc_speed_factor: 2.0, 
+Permutation: 549
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 27, ego_lane_pos: 15, ego_lane_id: -3, npc_speed_factor: 1.25, 
+Permutation: 550
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 27, ego_lane_pos: 15, ego_lane_id: -3, npc_speed_factor: 1.625, 
+Permutation: 551
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 27, ego_lane_pos: 15, ego_lane_id: -3, npc_speed_factor: 2.0, 
+Permutation: 552
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 28, ego_lane_pos: 10, ego_lane_id: -1, npc_speed_factor: 1.25, 
+Permutation: 553
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 28, ego_lane_pos: 10, ego_lane_id: -1, npc_speed_factor: 1.625, 
+Permutation: 554
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 28, ego_lane_pos: 10, ego_lane_id: -1, npc_speed_factor: 2.0, 
+Permutation: 555
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 28, ego_lane_pos: 10, ego_lane_id: -1.9, npc_speed_factor: 1.25, 
+Permutation: 556
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 28, ego_lane_pos: 10, ego_lane_id: -1.9, npc_speed_factor: 1.625, 
+Permutation: 557
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 28, ego_lane_pos: 10, ego_lane_id: -1.9, npc_speed_factor: 2.0, 
+Permutation: 558
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 28, ego_lane_pos: 10, ego_lane_id: -2.1, npc_speed_factor: 1.25, 
+Permutation: 559
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 28, ego_lane_pos: 10, ego_lane_id: -2.1, npc_speed_factor: 1.625, 
+Permutation: 560
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 28, ego_lane_pos: 10, ego_lane_id: -2.1, npc_speed_factor: 2.0, 
+Permutation: 561
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 28, ego_lane_pos: 10, ego_lane_id: -3, npc_speed_factor: 1.25, 
+Permutation: 562
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 28, ego_lane_pos: 10, ego_lane_id: -3, npc_speed_factor: 1.625, 
+Permutation: 563
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 28, ego_lane_pos: 10, ego_lane_id: -3, npc_speed_factor: 2.0, 
+Permutation: 564
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 28, ego_lane_pos: 15, ego_lane_id: -1, npc_speed_factor: 1.25, 
+Permutation: 565
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 28, ego_lane_pos: 15, ego_lane_id: -1, npc_speed_factor: 1.625, 
+Permutation: 566
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 28, ego_lane_pos: 15, ego_lane_id: -1, npc_speed_factor: 2.0, 
+Permutation: 567
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 28, ego_lane_pos: 15, ego_lane_id: -1.9, npc_speed_factor: 1.25, 
+Permutation: 568
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 28, ego_lane_pos: 15, ego_lane_id: -1.9, npc_speed_factor: 1.625, 
+Permutation: 569
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 28, ego_lane_pos: 15, ego_lane_id: -1.9, npc_speed_factor: 2.0, 
+Permutation: 570
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 28, ego_lane_pos: 15, ego_lane_id: -2.1, npc_speed_factor: 1.25, 
+Permutation: 571
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 28, ego_lane_pos: 15, ego_lane_id: -2.1, npc_speed_factor: 1.625, 
+Permutation: 572
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 28, ego_lane_pos: 15, ego_lane_id: -2.1, npc_speed_factor: 2.0, 
+Permutation: 573
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 28, ego_lane_pos: 15, ego_lane_id: -3, npc_speed_factor: 1.25, 
+Permutation: 574
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 28, ego_lane_pos: 15, ego_lane_id: -3, npc_speed_factor: 1.625, 
+Permutation: 575
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 28, ego_lane_pos: 15, ego_lane_id: -3, npc_speed_factor: 2.0, 
+Permutation: 576
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 29, ego_lane_pos: 10, ego_lane_id: -1, npc_speed_factor: 1.25, 
+Permutation: 577
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 29, ego_lane_pos: 10, ego_lane_id: -1, npc_speed_factor: 1.625, 
+Permutation: 578
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 29, ego_lane_pos: 10, ego_lane_id: -1, npc_speed_factor: 2.0, 
+Permutation: 579
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 29, ego_lane_pos: 10, ego_lane_id: -1.9, npc_speed_factor: 1.25, 
+Permutation: 580
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 29, ego_lane_pos: 10, ego_lane_id: -1.9, npc_speed_factor: 1.625, 
+Permutation: 581
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 29, ego_lane_pos: 10, ego_lane_id: -1.9, npc_speed_factor: 2.0, 
+Permutation: 582
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 29, ego_lane_pos: 10, ego_lane_id: -2.1, npc_speed_factor: 1.25, 
+Permutation: 583
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 29, ego_lane_pos: 10, ego_lane_id: -2.1, npc_speed_factor: 1.625, 
+Permutation: 584
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 29, ego_lane_pos: 10, ego_lane_id: -2.1, npc_speed_factor: 2.0, 
+Permutation: 585
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 29, ego_lane_pos: 10, ego_lane_id: -3, npc_speed_factor: 1.25, 
+Permutation: 586
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 29, ego_lane_pos: 10, ego_lane_id: -3, npc_speed_factor: 1.625, 
+Permutation: 587
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 29, ego_lane_pos: 10, ego_lane_id: -3, npc_speed_factor: 2.0, 
+Permutation: 588
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 29, ego_lane_pos: 15, ego_lane_id: -1, npc_speed_factor: 1.25, 
+Permutation: 589
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 29, ego_lane_pos: 15, ego_lane_id: -1, npc_speed_factor: 1.625, 
+Permutation: 590
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 29, ego_lane_pos: 15, ego_lane_id: -1, npc_speed_factor: 2.0, 
+Permutation: 591
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 29, ego_lane_pos: 15, ego_lane_id: -1.9, npc_speed_factor: 1.25, 
+Permutation: 592
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 29, ego_lane_pos: 15, ego_lane_id: -1.9, npc_speed_factor: 1.625, 
+Permutation: 593
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 29, ego_lane_pos: 15, ego_lane_id: -1.9, npc_speed_factor: 2.0, 
+Permutation: 594
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 29, ego_lane_pos: 15, ego_lane_id: -2.1, npc_speed_factor: 1.25, 
+Permutation: 595
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 29, ego_lane_pos: 15, ego_lane_id: -2.1, npc_speed_factor: 1.625, 
+Permutation: 596
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 29, ego_lane_pos: 15, ego_lane_id: -2.1, npc_speed_factor: 2.0, 
+Permutation: 597
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 29, ego_lane_pos: 15, ego_lane_id: -3, npc_speed_factor: 1.25, 
+Permutation: 598
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 29, ego_lane_pos: 15, ego_lane_id: -3, npc_speed_factor: 1.625, 
+Permutation: 599
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 29, ego_lane_pos: 15, ego_lane_id: -3, npc_speed_factor: 2.0, 
+Permutation: 600
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 30, ego_lane_pos: 10, ego_lane_id: -1, npc_speed_factor: 1.25, 
+Permutation: 601
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 30, ego_lane_pos: 10, ego_lane_id: -1, npc_speed_factor: 1.625, 
+Permutation: 602
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 30, ego_lane_pos: 10, ego_lane_id: -1, npc_speed_factor: 2.0, 
+Permutation: 603
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 30, ego_lane_pos: 10, ego_lane_id: -1.9, npc_speed_factor: 1.25, 
+Permutation: 604
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 30, ego_lane_pos: 10, ego_lane_id: -1.9, npc_speed_factor: 1.625, 
+Permutation: 605
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 30, ego_lane_pos: 10, ego_lane_id: -1.9, npc_speed_factor: 2.0, 
+Permutation: 606
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 30, ego_lane_pos: 10, ego_lane_id: -2.1, npc_speed_factor: 1.25, 
+Permutation: 607
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 30, ego_lane_pos: 10, ego_lane_id: -2.1, npc_speed_factor: 1.625, 
+Permutation: 608
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 30, ego_lane_pos: 10, ego_lane_id: -2.1, npc_speed_factor: 2.0, 
+Permutation: 609
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 30, ego_lane_pos: 10, ego_lane_id: -3, npc_speed_factor: 1.25, 
+Permutation: 610
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 30, ego_lane_pos: 10, ego_lane_id: -3, npc_speed_factor: 1.625, 
+Permutation: 611
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 30, ego_lane_pos: 10, ego_lane_id: -3, npc_speed_factor: 2.0, 
+Permutation: 612
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 30, ego_lane_pos: 15, ego_lane_id: -1, npc_speed_factor: 1.25, 
+Permutation: 613
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 30, ego_lane_pos: 15, ego_lane_id: -1, npc_speed_factor: 1.625, 
+Permutation: 614
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 30, ego_lane_pos: 15, ego_lane_id: -1, npc_speed_factor: 2.0, 
+Permutation: 615
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 30, ego_lane_pos: 15, ego_lane_id: -1.9, npc_speed_factor: 1.25, 
+Permutation: 616
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 30, ego_lane_pos: 15, ego_lane_id: -1.9, npc_speed_factor: 1.625, 
+Permutation: 617
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 30, ego_lane_pos: 15, ego_lane_id: -1.9, npc_speed_factor: 2.0, 
+Permutation: 618
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 30, ego_lane_pos: 15, ego_lane_id: -2.1, npc_speed_factor: 1.25, 
+Permutation: 619
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 30, ego_lane_pos: 15, ego_lane_id: -2.1, npc_speed_factor: 1.625, 
+Permutation: 620
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 30, ego_lane_pos: 15, ego_lane_id: -2.1, npc_speed_factor: 2.0, 
+Permutation: 621
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 30, ego_lane_pos: 15, ego_lane_id: -3, npc_speed_factor: 1.25, 
+Permutation: 622
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 30, ego_lane_pos: 15, ego_lane_id: -3, npc_speed_factor: 1.625, 
+Permutation: 623
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 30, ego_lane_pos: 15, ego_lane_id: -3, npc_speed_factor: 2.0, 
+Permutation: 624
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 31, ego_lane_pos: 10, ego_lane_id: -1, npc_speed_factor: 1.25, 
+Permutation: 625
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 31, ego_lane_pos: 10, ego_lane_id: -1, npc_speed_factor: 1.625, 
+Permutation: 626
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 31, ego_lane_pos: 10, ego_lane_id: -1, npc_speed_factor: 2.0, 
+Permutation: 627
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 31, ego_lane_pos: 10, ego_lane_id: -1.9, npc_speed_factor: 1.25, 
+Permutation: 628
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 31, ego_lane_pos: 10, ego_lane_id: -1.9, npc_speed_factor: 1.625, 
+Permutation: 629
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 31, ego_lane_pos: 10, ego_lane_id: -1.9, npc_speed_factor: 2.0, 
+Permutation: 630
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 31, ego_lane_pos: 10, ego_lane_id: -2.1, npc_speed_factor: 1.25, 
+Permutation: 631
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 31, ego_lane_pos: 10, ego_lane_id: -2.1, npc_speed_factor: 1.625, 
+Permutation: 632
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 31, ego_lane_pos: 10, ego_lane_id: -2.1, npc_speed_factor: 2.0, 
+Permutation: 633
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 31, ego_lane_pos: 10, ego_lane_id: -3, npc_speed_factor: 1.25, 
+Permutation: 634
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 31, ego_lane_pos: 10, ego_lane_id: -3, npc_speed_factor: 1.625, 
+Permutation: 635
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 31, ego_lane_pos: 10, ego_lane_id: -3, npc_speed_factor: 2.0, 
+Permutation: 636
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 31, ego_lane_pos: 15, ego_lane_id: -1, npc_speed_factor: 1.25, 
+Permutation: 637
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 31, ego_lane_pos: 15, ego_lane_id: -1, npc_speed_factor: 1.625, 
+Permutation: 638
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 31, ego_lane_pos: 15, ego_lane_id: -1, npc_speed_factor: 2.0, 
+Permutation: 639
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 31, ego_lane_pos: 15, ego_lane_id: -1.9, npc_speed_factor: 1.25, 
+Permutation: 640
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 31, ego_lane_pos: 15, ego_lane_id: -1.9, npc_speed_factor: 1.625, 
+Permutation: 641
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 31, ego_lane_pos: 15, ego_lane_id: -1.9, npc_speed_factor: 2.0, 
+Permutation: 642
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 31, ego_lane_pos: 15, ego_lane_id: -2.1, npc_speed_factor: 1.25, 
+Permutation: 643
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 31, ego_lane_pos: 15, ego_lane_id: -2.1, npc_speed_factor: 1.625, 
+Permutation: 644
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 31, ego_lane_pos: 15, ego_lane_id: -2.1, npc_speed_factor: 2.0, 
+Permutation: 645
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 31, ego_lane_pos: 15, ego_lane_id: -3, npc_speed_factor: 1.25, 
+Permutation: 646
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 31, ego_lane_pos: 15, ego_lane_id: -3, npc_speed_factor: 1.625, 
+Permutation: 647
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 31, ego_lane_pos: 15, ego_lane_id: -3, npc_speed_factor: 2.0, 
+Permutation: 648
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 32, ego_lane_pos: 10, ego_lane_id: -1, npc_speed_factor: 1.25, 
+Permutation: 649
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 32, ego_lane_pos: 10, ego_lane_id: -1, npc_speed_factor: 1.625, 
+Permutation: 650
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 32, ego_lane_pos: 10, ego_lane_id: -1, npc_speed_factor: 2.0, 
+Permutation: 651
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 32, ego_lane_pos: 10, ego_lane_id: -1.9, npc_speed_factor: 1.25, 
+Permutation: 652
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 32, ego_lane_pos: 10, ego_lane_id: -1.9, npc_speed_factor: 1.625, 
+Permutation: 653
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 32, ego_lane_pos: 10, ego_lane_id: -1.9, npc_speed_factor: 2.0, 
+Permutation: 654
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 32, ego_lane_pos: 10, ego_lane_id: -2.1, npc_speed_factor: 1.25, 
+Permutation: 655
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 32, ego_lane_pos: 10, ego_lane_id: -2.1, npc_speed_factor: 1.625, 
+Permutation: 656
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 32, ego_lane_pos: 10, ego_lane_id: -2.1, npc_speed_factor: 2.0, 
+Permutation: 657
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 32, ego_lane_pos: 10, ego_lane_id: -3, npc_speed_factor: 1.25, 
+Permutation: 658
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 32, ego_lane_pos: 10, ego_lane_id: -3, npc_speed_factor: 1.625, 
+Permutation: 659
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 32, ego_lane_pos: 10, ego_lane_id: -3, npc_speed_factor: 2.0, 
+Permutation: 660
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 32, ego_lane_pos: 15, ego_lane_id: -1, npc_speed_factor: 1.25, 
+Permutation: 661
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 32, ego_lane_pos: 15, ego_lane_id: -1, npc_speed_factor: 1.625, 
+Permutation: 662
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 32, ego_lane_pos: 15, ego_lane_id: -1, npc_speed_factor: 2.0, 
+Permutation: 663
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 32, ego_lane_pos: 15, ego_lane_id: -1.9, npc_speed_factor: 1.25, 
+Permutation: 664
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 32, ego_lane_pos: 15, ego_lane_id: -1.9, npc_speed_factor: 1.625, 
+Permutation: 665
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 32, ego_lane_pos: 15, ego_lane_id: -1.9, npc_speed_factor: 2.0, 
+Permutation: 666
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 32, ego_lane_pos: 15, ego_lane_id: -2.1, npc_speed_factor: 1.25, 
+Permutation: 667
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 32, ego_lane_pos: 15, ego_lane_id: -2.1, npc_speed_factor: 1.625, 
+Permutation: 668
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 32, ego_lane_pos: 15, ego_lane_id: -2.1, npc_speed_factor: 2.0, 
+Permutation: 669
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 32, ego_lane_pos: 15, ego_lane_id: -3, npc_speed_factor: 1.25, 
+Permutation: 670
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 32, ego_lane_pos: 15, ego_lane_id: -3, npc_speed_factor: 1.625, 
+Permutation: 671
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 32, ego_lane_pos: 15, ego_lane_id: -3, npc_speed_factor: 2.0, 
+Permutation: 672
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 33, ego_lane_pos: 10, ego_lane_id: -1, npc_speed_factor: 1.25, 
+Permutation: 673
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 33, ego_lane_pos: 10, ego_lane_id: -1, npc_speed_factor: 1.625, 
+Permutation: 674
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 33, ego_lane_pos: 10, ego_lane_id: -1, npc_speed_factor: 2.0, 
+Permutation: 675
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 33, ego_lane_pos: 10, ego_lane_id: -1.9, npc_speed_factor: 1.25, 
+Permutation: 676
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 33, ego_lane_pos: 10, ego_lane_id: -1.9, npc_speed_factor: 1.625, 
+Permutation: 677
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 33, ego_lane_pos: 10, ego_lane_id: -1.9, npc_speed_factor: 2.0, 
+Permutation: 678
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 33, ego_lane_pos: 10, ego_lane_id: -2.1, npc_speed_factor: 1.25, 
+Permutation: 679
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 33, ego_lane_pos: 10, ego_lane_id: -2.1, npc_speed_factor: 1.625, 
+Permutation: 680
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 33, ego_lane_pos: 10, ego_lane_id: -2.1, npc_speed_factor: 2.0, 
+Permutation: 681
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 33, ego_lane_pos: 10, ego_lane_id: -3, npc_speed_factor: 1.25, 
+Permutation: 682
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 33, ego_lane_pos: 10, ego_lane_id: -3, npc_speed_factor: 1.625, 
+Permutation: 683
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 33, ego_lane_pos: 10, ego_lane_id: -3, npc_speed_factor: 2.0, 
+Permutation: 684
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 33, ego_lane_pos: 15, ego_lane_id: -1, npc_speed_factor: 1.25, 
+Permutation: 685
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 33, ego_lane_pos: 15, ego_lane_id: -1, npc_speed_factor: 1.625, 
+Permutation: 686
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 33, ego_lane_pos: 15, ego_lane_id: -1, npc_speed_factor: 2.0, 
+Permutation: 687
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 33, ego_lane_pos: 15, ego_lane_id: -1.9, npc_speed_factor: 1.25, 
+Permutation: 688
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 33, ego_lane_pos: 15, ego_lane_id: -1.9, npc_speed_factor: 1.625, 
+Permutation: 689
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 33, ego_lane_pos: 15, ego_lane_id: -1.9, npc_speed_factor: 2.0, 
+Permutation: 690
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 33, ego_lane_pos: 15, ego_lane_id: -2.1, npc_speed_factor: 1.25, 
+Permutation: 691
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 33, ego_lane_pos: 15, ego_lane_id: -2.1, npc_speed_factor: 1.625, 
+Permutation: 692
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 33, ego_lane_pos: 15, ego_lane_id: -2.1, npc_speed_factor: 2.0, 
+Permutation: 693
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 33, ego_lane_pos: 15, ego_lane_id: -3, npc_speed_factor: 1.25, 
+Permutation: 694
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 33, ego_lane_pos: 15, ego_lane_id: -3, npc_speed_factor: 1.625, 
+Permutation: 695
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 33, ego_lane_pos: 15, ego_lane_id: -3, npc_speed_factor: 2.0, 
+Permutation: 696
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 34, ego_lane_pos: 10, ego_lane_id: -1, npc_speed_factor: 1.25, 
+Permutation: 697
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 34, ego_lane_pos: 10, ego_lane_id: -1, npc_speed_factor: 1.625, 
+Permutation: 698
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 34, ego_lane_pos: 10, ego_lane_id: -1, npc_speed_factor: 2.0, 
+Permutation: 699
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 34, ego_lane_pos: 10, ego_lane_id: -1.9, npc_speed_factor: 1.25, 
+Permutation: 700
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 34, ego_lane_pos: 10, ego_lane_id: -1.9, npc_speed_factor: 1.625, 
+Permutation: 701
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 34, ego_lane_pos: 10, ego_lane_id: -1.9, npc_speed_factor: 2.0, 
+Permutation: 702
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 34, ego_lane_pos: 10, ego_lane_id: -2.1, npc_speed_factor: 1.25, 
+Permutation: 703
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 34, ego_lane_pos: 10, ego_lane_id: -2.1, npc_speed_factor: 1.625, 
+Permutation: 704
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 34, ego_lane_pos: 10, ego_lane_id: -2.1, npc_speed_factor: 2.0, 
+Permutation: 705
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 34, ego_lane_pos: 10, ego_lane_id: -3, npc_speed_factor: 1.25, 
+Permutation: 706
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 34, ego_lane_pos: 10, ego_lane_id: -3, npc_speed_factor: 1.625, 
+Permutation: 707
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 34, ego_lane_pos: 10, ego_lane_id: -3, npc_speed_factor: 2.0, 
+Permutation: 708
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 34, ego_lane_pos: 15, ego_lane_id: -1, npc_speed_factor: 1.25, 
+Permutation: 709
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 34, ego_lane_pos: 15, ego_lane_id: -1, npc_speed_factor: 1.625, 
+Permutation: 710
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 34, ego_lane_pos: 15, ego_lane_id: -1, npc_speed_factor: 2.0, 
+Permutation: 711
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 34, ego_lane_pos: 15, ego_lane_id: -1.9, npc_speed_factor: 1.25, 
+Permutation: 712
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 34, ego_lane_pos: 15, ego_lane_id: -1.9, npc_speed_factor: 1.625, 
+Permutation: 713
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 34, ego_lane_pos: 15, ego_lane_id: -1.9, npc_speed_factor: 2.0, 
+Permutation: 714
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 34, ego_lane_pos: 15, ego_lane_id: -2.1, npc_speed_factor: 1.25, 
+Permutation: 715
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 34, ego_lane_pos: 15, ego_lane_id: -2.1, npc_speed_factor: 1.625, 
+Permutation: 716
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 34, ego_lane_pos: 15, ego_lane_id: -2.1, npc_speed_factor: 2.0, 
+Permutation: 717
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 34, ego_lane_pos: 15, ego_lane_id: -3, npc_speed_factor: 1.25, 
+Permutation: 718
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 34, ego_lane_pos: 15, ego_lane_id: -3, npc_speed_factor: 1.625, 
+Permutation: 719
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 34, ego_lane_pos: 15, ego_lane_id: -3, npc_speed_factor: 2.0, 
+Permutation: 720
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 35, ego_lane_pos: 10, ego_lane_id: -1, npc_speed_factor: 1.25, 
+Permutation: 721
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 35, ego_lane_pos: 10, ego_lane_id: -1, npc_speed_factor: 1.625, 
+Permutation: 722
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 35, ego_lane_pos: 10, ego_lane_id: -1, npc_speed_factor: 2.0, 
+Permutation: 723
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 35, ego_lane_pos: 10, ego_lane_id: -1.9, npc_speed_factor: 1.25, 
+Permutation: 724
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 35, ego_lane_pos: 10, ego_lane_id: -1.9, npc_speed_factor: 1.625, 
+Permutation: 725
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 35, ego_lane_pos: 10, ego_lane_id: -1.9, npc_speed_factor: 2.0, 
+Permutation: 726
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 35, ego_lane_pos: 10, ego_lane_id: -2.1, npc_speed_factor: 1.25, 
+Permutation: 727
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 35, ego_lane_pos: 10, ego_lane_id: -2.1, npc_speed_factor: 1.625, 
+Permutation: 728
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 35, ego_lane_pos: 10, ego_lane_id: -2.1, npc_speed_factor: 2.0, 
+Permutation: 729
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 35, ego_lane_pos: 10, ego_lane_id: -3, npc_speed_factor: 1.25, 
+Permutation: 730
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 35, ego_lane_pos: 10, ego_lane_id: -3, npc_speed_factor: 1.625, 
+Permutation: 731
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 35, ego_lane_pos: 10, ego_lane_id: -3, npc_speed_factor: 2.0, 
+Permutation: 732
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 35, ego_lane_pos: 15, ego_lane_id: -1, npc_speed_factor: 1.25, 
+Permutation: 733
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 35, ego_lane_pos: 15, ego_lane_id: -1, npc_speed_factor: 1.625, 
+Permutation: 734
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 35, ego_lane_pos: 15, ego_lane_id: -1, npc_speed_factor: 2.0, 
+Permutation: 735
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 35, ego_lane_pos: 15, ego_lane_id: -1.9, npc_speed_factor: 1.25, 
+Permutation: 736
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 35, ego_lane_pos: 15, ego_lane_id: -1.9, npc_speed_factor: 1.625, 
+Permutation: 737
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 35, ego_lane_pos: 15, ego_lane_id: -1.9, npc_speed_factor: 2.0, 
+Permutation: 738
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 35, ego_lane_pos: 15, ego_lane_id: -2.1, npc_speed_factor: 1.25, 
+Permutation: 739
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 35, ego_lane_pos: 15, ego_lane_id: -2.1, npc_speed_factor: 1.625, 
+Permutation: 740
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 35, ego_lane_pos: 15, ego_lane_id: -2.1, npc_speed_factor: 2.0, 
+Permutation: 741
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 35, ego_lane_pos: 15, ego_lane_id: -3, npc_speed_factor: 1.25, 
+Permutation: 742
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 35, ego_lane_pos: 15, ego_lane_id: -3, npc_speed_factor: 1.625, 
+Permutation: 743
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 35, ego_lane_pos: 15, ego_lane_id: -3, npc_speed_factor: 2.0, 
+Permutation: 744
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 36, ego_lane_pos: 10, ego_lane_id: -1, npc_speed_factor: 1.25, 
+Permutation: 745
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 36, ego_lane_pos: 10, ego_lane_id: -1, npc_speed_factor: 1.625, 
+Permutation: 746
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 36, ego_lane_pos: 10, ego_lane_id: -1, npc_speed_factor: 2.0, 
+Permutation: 747
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 36, ego_lane_pos: 10, ego_lane_id: -1.9, npc_speed_factor: 1.25, 
+Permutation: 748
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 36, ego_lane_pos: 10, ego_lane_id: -1.9, npc_speed_factor: 1.625, 
+Permutation: 749
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 36, ego_lane_pos: 10, ego_lane_id: -1.9, npc_speed_factor: 2.0, 
+Permutation: 750
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 36, ego_lane_pos: 10, ego_lane_id: -2.1, npc_speed_factor: 1.25, 
+Permutation: 751
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 36, ego_lane_pos: 10, ego_lane_id: -2.1, npc_speed_factor: 1.625, 
+Permutation: 752
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 36, ego_lane_pos: 10, ego_lane_id: -2.1, npc_speed_factor: 2.0, 
+Permutation: 753
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 36, ego_lane_pos: 10, ego_lane_id: -3, npc_speed_factor: 1.25, 
+Permutation: 754
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 36, ego_lane_pos: 10, ego_lane_id: -3, npc_speed_factor: 1.625, 
+Permutation: 755
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 36, ego_lane_pos: 10, ego_lane_id: -3, npc_speed_factor: 2.0, 
+Permutation: 756
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 36, ego_lane_pos: 15, ego_lane_id: -1, npc_speed_factor: 1.25, 
+Permutation: 757
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 36, ego_lane_pos: 15, ego_lane_id: -1, npc_speed_factor: 1.625, 
+Permutation: 758
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 36, ego_lane_pos: 15, ego_lane_id: -1, npc_speed_factor: 2.0, 
+Permutation: 759
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 36, ego_lane_pos: 15, ego_lane_id: -1.9, npc_speed_factor: 1.25, 
+Permutation: 760
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 36, ego_lane_pos: 15, ego_lane_id: -1.9, npc_speed_factor: 1.625, 
+Permutation: 761
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 36, ego_lane_pos: 15, ego_lane_id: -1.9, npc_speed_factor: 2.0, 
+Permutation: 762
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 36, ego_lane_pos: 15, ego_lane_id: -2.1, npc_speed_factor: 1.25, 
+Permutation: 763
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 36, ego_lane_pos: 15, ego_lane_id: -2.1, npc_speed_factor: 1.625, 
+Permutation: 764
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 36, ego_lane_pos: 15, ego_lane_id: -2.1, npc_speed_factor: 2.0, 
+Permutation: 765
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 36, ego_lane_pos: 15, ego_lane_id: -3, npc_speed_factor: 1.25, 
+Permutation: 766
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 36, ego_lane_pos: 15, ego_lane_id: -3, npc_speed_factor: 1.625, 
+Permutation: 767
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 36, ego_lane_pos: 15, ego_lane_id: -3, npc_speed_factor: 2.0, 
+Permutation: 768
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 37, ego_lane_pos: 10, ego_lane_id: -1, npc_speed_factor: 1.25, 
+Permutation: 769
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 37, ego_lane_pos: 10, ego_lane_id: -1, npc_speed_factor: 1.625, 
+Permutation: 770
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 37, ego_lane_pos: 10, ego_lane_id: -1, npc_speed_factor: 2.0, 
+Permutation: 771
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 37, ego_lane_pos: 10, ego_lane_id: -1.9, npc_speed_factor: 1.25, 
+Permutation: 772
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 37, ego_lane_pos: 10, ego_lane_id: -1.9, npc_speed_factor: 1.625, 
+Permutation: 773
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 37, ego_lane_pos: 10, ego_lane_id: -1.9, npc_speed_factor: 2.0, 
+Permutation: 774
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 37, ego_lane_pos: 10, ego_lane_id: -2.1, npc_speed_factor: 1.25, 
+Permutation: 775
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 37, ego_lane_pos: 10, ego_lane_id: -2.1, npc_speed_factor: 1.625, 
+Permutation: 776
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 37, ego_lane_pos: 10, ego_lane_id: -2.1, npc_speed_factor: 2.0, 
+Permutation: 777
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 37, ego_lane_pos: 10, ego_lane_id: -3, npc_speed_factor: 1.25, 
+Permutation: 778
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 37, ego_lane_pos: 10, ego_lane_id: -3, npc_speed_factor: 1.625, 
+Permutation: 779
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 37, ego_lane_pos: 10, ego_lane_id: -3, npc_speed_factor: 2.0, 
+Permutation: 780
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 37, ego_lane_pos: 15, ego_lane_id: -1, npc_speed_factor: 1.25, 
+Permutation: 781
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 37, ego_lane_pos: 15, ego_lane_id: -1, npc_speed_factor: 1.625, 
+Permutation: 782
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 37, ego_lane_pos: 15, ego_lane_id: -1, npc_speed_factor: 2.0, 
+Permutation: 783
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 37, ego_lane_pos: 15, ego_lane_id: -1.9, npc_speed_factor: 1.25, 
+Permutation: 784
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 37, ego_lane_pos: 15, ego_lane_id: -1.9, npc_speed_factor: 1.625, 
+Permutation: 785
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 37, ego_lane_pos: 15, ego_lane_id: -1.9, npc_speed_factor: 2.0, 
+Permutation: 786
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 37, ego_lane_pos: 15, ego_lane_id: -2.1, npc_speed_factor: 1.25, 
+Permutation: 787
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 37, ego_lane_pos: 15, ego_lane_id: -2.1, npc_speed_factor: 1.625, 
+Permutation: 788
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 37, ego_lane_pos: 15, ego_lane_id: -2.1, npc_speed_factor: 2.0, 
+Permutation: 789
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 37, ego_lane_pos: 15, ego_lane_id: -3, npc_speed_factor: 1.25, 
+Permutation: 790
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 37, ego_lane_pos: 15, ego_lane_id: -3, npc_speed_factor: 1.625, 
+Permutation: 791
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 37, ego_lane_pos: 15, ego_lane_id: -3, npc_speed_factor: 2.0, 
+Permutation: 792
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 38, ego_lane_pos: 10, ego_lane_id: -1, npc_speed_factor: 1.25, 
+Permutation: 793
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 38, ego_lane_pos: 10, ego_lane_id: -1, npc_speed_factor: 1.625, 
+Permutation: 794
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 38, ego_lane_pos: 10, ego_lane_id: -1, npc_speed_factor: 2.0, 
+Permutation: 795
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 38, ego_lane_pos: 10, ego_lane_id: -1.9, npc_speed_factor: 1.25, 
+Permutation: 796
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 38, ego_lane_pos: 10, ego_lane_id: -1.9, npc_speed_factor: 1.625, 
+Permutation: 797
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 38, ego_lane_pos: 10, ego_lane_id: -1.9, npc_speed_factor: 2.0, 
+Permutation: 798
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 38, ego_lane_pos: 10, ego_lane_id: -2.1, npc_speed_factor: 1.25, 
+Permutation: 799
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 38, ego_lane_pos: 10, ego_lane_id: -2.1, npc_speed_factor: 1.625, 
+Permutation: 800
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 38, ego_lane_pos: 10, ego_lane_id: -2.1, npc_speed_factor: 2.0, 
+Permutation: 801
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 38, ego_lane_pos: 10, ego_lane_id: -3, npc_speed_factor: 1.25, 
+Permutation: 802
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 38, ego_lane_pos: 10, ego_lane_id: -3, npc_speed_factor: 1.625, 
+Permutation: 803
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 38, ego_lane_pos: 10, ego_lane_id: -3, npc_speed_factor: 2.0, 
+Permutation: 804
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 38, ego_lane_pos: 15, ego_lane_id: -1, npc_speed_factor: 1.25, 
+Permutation: 805
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 38, ego_lane_pos: 15, ego_lane_id: -1, npc_speed_factor: 1.625, 
+Permutation: 806
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 38, ego_lane_pos: 15, ego_lane_id: -1, npc_speed_factor: 2.0, 
+Permutation: 807
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 38, ego_lane_pos: 15, ego_lane_id: -1.9, npc_speed_factor: 1.25, 
+Permutation: 808
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 38, ego_lane_pos: 15, ego_lane_id: -1.9, npc_speed_factor: 1.625, 
+Permutation: 809
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 38, ego_lane_pos: 15, ego_lane_id: -1.9, npc_speed_factor: 2.0, 
+Permutation: 810
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 38, ego_lane_pos: 15, ego_lane_id: -2.1, npc_speed_factor: 1.25, 
+Permutation: 811
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 38, ego_lane_pos: 15, ego_lane_id: -2.1, npc_speed_factor: 1.625, 
+Permutation: 812
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 38, ego_lane_pos: 15, ego_lane_id: -2.1, npc_speed_factor: 2.0, 
+Permutation: 813
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 38, ego_lane_pos: 15, ego_lane_id: -3, npc_speed_factor: 1.25, 
+Permutation: 814
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 38, ego_lane_pos: 15, ego_lane_id: -3, npc_speed_factor: 1.625, 
+Permutation: 815
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 38, ego_lane_pos: 15, ego_lane_id: -3, npc_speed_factor: 2.0, 
+Permutation: 816
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 39, ego_lane_pos: 10, ego_lane_id: -1, npc_speed_factor: 1.25, 
+Permutation: 817
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 39, ego_lane_pos: 10, ego_lane_id: -1, npc_speed_factor: 1.625, 
+Permutation: 818
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 39, ego_lane_pos: 10, ego_lane_id: -1, npc_speed_factor: 2.0, 
+Permutation: 819
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 39, ego_lane_pos: 10, ego_lane_id: -1.9, npc_speed_factor: 1.25, 
+Permutation: 820
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 39, ego_lane_pos: 10, ego_lane_id: -1.9, npc_speed_factor: 1.625, 
+Permutation: 821
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 39, ego_lane_pos: 10, ego_lane_id: -1.9, npc_speed_factor: 2.0, 
+Permutation: 822
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 39, ego_lane_pos: 10, ego_lane_id: -2.1, npc_speed_factor: 1.25, 
+Permutation: 823
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 39, ego_lane_pos: 10, ego_lane_id: -2.1, npc_speed_factor: 1.625, 
+Permutation: 824
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 39, ego_lane_pos: 10, ego_lane_id: -2.1, npc_speed_factor: 2.0, 
+Permutation: 825
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 39, ego_lane_pos: 10, ego_lane_id: -3, npc_speed_factor: 1.25, 
+Permutation: 826
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 39, ego_lane_pos: 10, ego_lane_id: -3, npc_speed_factor: 1.625, 
+Permutation: 827
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 39, ego_lane_pos: 10, ego_lane_id: -3, npc_speed_factor: 2.0, 
+Permutation: 828
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 39, ego_lane_pos: 15, ego_lane_id: -1, npc_speed_factor: 1.25, 
+Permutation: 829
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 39, ego_lane_pos: 15, ego_lane_id: -1, npc_speed_factor: 1.625, 
+Permutation: 830
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 39, ego_lane_pos: 15, ego_lane_id: -1, npc_speed_factor: 2.0, 
+Permutation: 831
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 39, ego_lane_pos: 15, ego_lane_id: -1.9, npc_speed_factor: 1.25, 
+Permutation: 832
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 39, ego_lane_pos: 15, ego_lane_id: -1.9, npc_speed_factor: 1.625, 
+Permutation: 833
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 39, ego_lane_pos: 15, ego_lane_id: -1.9, npc_speed_factor: 2.0, 
+Permutation: 834
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 39, ego_lane_pos: 15, ego_lane_id: -2.1, npc_speed_factor: 1.25, 
+Permutation: 835
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 39, ego_lane_pos: 15, ego_lane_id: -2.1, npc_speed_factor: 1.625, 
+Permutation: 836
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 39, ego_lane_pos: 15, ego_lane_id: -2.1, npc_speed_factor: 2.0, 
+Permutation: 837
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 39, ego_lane_pos: 15, ego_lane_id: -3, npc_speed_factor: 1.25, 
+Permutation: 838
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 39, ego_lane_pos: 15, ego_lane_id: -3, npc_speed_factor: 1.625, 
+Permutation: 839
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 39, ego_lane_pos: 15, ego_lane_id: -3, npc_speed_factor: 2.0, 
+Permutation: 840
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 40, ego_lane_pos: 10, ego_lane_id: -1, npc_speed_factor: 1.25, 
+Permutation: 841
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 40, ego_lane_pos: 10, ego_lane_id: -1, npc_speed_factor: 1.625, 
+Permutation: 842
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 40, ego_lane_pos: 10, ego_lane_id: -1, npc_speed_factor: 2.0, 
+Permutation: 843
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 40, ego_lane_pos: 10, ego_lane_id: -1.9, npc_speed_factor: 1.25, 
+Permutation: 844
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 40, ego_lane_pos: 10, ego_lane_id: -1.9, npc_speed_factor: 1.625, 
+Permutation: 845
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 40, ego_lane_pos: 10, ego_lane_id: -1.9, npc_speed_factor: 2.0, 
+Permutation: 846
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 40, ego_lane_pos: 10, ego_lane_id: -2.1, npc_speed_factor: 1.25, 
+Permutation: 847
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 40, ego_lane_pos: 10, ego_lane_id: -2.1, npc_speed_factor: 1.625, 
+Permutation: 848
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 40, ego_lane_pos: 10, ego_lane_id: -2.1, npc_speed_factor: 2.0, 
+Permutation: 849
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 40, ego_lane_pos: 10, ego_lane_id: -3, npc_speed_factor: 1.25, 
+Permutation: 850
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 40, ego_lane_pos: 10, ego_lane_id: -3, npc_speed_factor: 1.625, 
+Permutation: 851
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 40, ego_lane_pos: 10, ego_lane_id: -3, npc_speed_factor: 2.0, 
+Permutation: 852
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 40, ego_lane_pos: 15, ego_lane_id: -1, npc_speed_factor: 1.25, 
+Permutation: 853
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 40, ego_lane_pos: 15, ego_lane_id: -1, npc_speed_factor: 1.625, 
+Permutation: 854
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 40, ego_lane_pos: 15, ego_lane_id: -1, npc_speed_factor: 2.0, 
+Permutation: 855
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 40, ego_lane_pos: 15, ego_lane_id: -1.9, npc_speed_factor: 1.25, 
+Permutation: 856
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 40, ego_lane_pos: 15, ego_lane_id: -1.9, npc_speed_factor: 1.625, 
+Permutation: 857
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 40, ego_lane_pos: 15, ego_lane_id: -1.9, npc_speed_factor: 2.0, 
+Permutation: 858
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 40, ego_lane_pos: 15, ego_lane_id: -2.1, npc_speed_factor: 1.25, 
+Permutation: 859
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 40, ego_lane_pos: 15, ego_lane_id: -2.1, npc_speed_factor: 1.625, 
+Permutation: 860
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 40, ego_lane_pos: 15, ego_lane_id: -2.1, npc_speed_factor: 2.0, 
+Permutation: 861
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 40, ego_lane_pos: 15, ego_lane_id: -3, npc_speed_factor: 1.25, 
+Permutation: 862
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 40, ego_lane_pos: 15, ego_lane_id: -3, npc_speed_factor: 1.625, 
+Permutation: 863
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 40, ego_lane_pos: 15, ego_lane_id: -3, npc_speed_factor: 2.0, 
+Permutation: 864
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 41, ego_lane_pos: 10, ego_lane_id: -1, npc_speed_factor: 1.25, 
+Permutation: 865
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 41, ego_lane_pos: 10, ego_lane_id: -1, npc_speed_factor: 1.625, 
+Permutation: 866
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 41, ego_lane_pos: 10, ego_lane_id: -1, npc_speed_factor: 2.0, 
+Permutation: 867
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 41, ego_lane_pos: 10, ego_lane_id: -1.9, npc_speed_factor: 1.25, 
+Permutation: 868
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 41, ego_lane_pos: 10, ego_lane_id: -1.9, npc_speed_factor: 1.625, 
+Permutation: 869
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 41, ego_lane_pos: 10, ego_lane_id: -1.9, npc_speed_factor: 2.0, 
+Permutation: 870
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 41, ego_lane_pos: 10, ego_lane_id: -2.1, npc_speed_factor: 1.25, 
+Permutation: 871
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 41, ego_lane_pos: 10, ego_lane_id: -2.1, npc_speed_factor: 1.625, 
+Permutation: 872
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 41, ego_lane_pos: 10, ego_lane_id: -2.1, npc_speed_factor: 2.0, 
+Permutation: 873
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 41, ego_lane_pos: 10, ego_lane_id: -3, npc_speed_factor: 1.25, 
+Permutation: 874
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 41, ego_lane_pos: 10, ego_lane_id: -3, npc_speed_factor: 1.625, 
+Permutation: 875
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 41, ego_lane_pos: 10, ego_lane_id: -3, npc_speed_factor: 2.0, 
+Permutation: 876
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 41, ego_lane_pos: 15, ego_lane_id: -1, npc_speed_factor: 1.25, 
+Permutation: 877
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 41, ego_lane_pos: 15, ego_lane_id: -1, npc_speed_factor: 1.625, 
+Permutation: 878
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 41, ego_lane_pos: 15, ego_lane_id: -1, npc_speed_factor: 2.0, 
+Permutation: 879
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 41, ego_lane_pos: 15, ego_lane_id: -1.9, npc_speed_factor: 1.25, 
+Permutation: 880
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 41, ego_lane_pos: 15, ego_lane_id: -1.9, npc_speed_factor: 1.625, 
+Permutation: 881
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 41, ego_lane_pos: 15, ego_lane_id: -1.9, npc_speed_factor: 2.0, 
+Permutation: 882
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 41, ego_lane_pos: 15, ego_lane_id: -2.1, npc_speed_factor: 1.25, 
+Permutation: 883
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 41, ego_lane_pos: 15, ego_lane_id: -2.1, npc_speed_factor: 1.625, 
+Permutation: 884
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 41, ego_lane_pos: 15, ego_lane_id: -2.1, npc_speed_factor: 2.0, 
+Permutation: 885
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 41, ego_lane_pos: 15, ego_lane_id: -3, npc_speed_factor: 1.25, 
+Permutation: 886
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 41, ego_lane_pos: 15, ego_lane_id: -3, npc_speed_factor: 1.625, 
+Permutation: 887
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 41, ego_lane_pos: 15, ego_lane_id: -3, npc_speed_factor: 2.0, 
+Permutation: 888
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 42, ego_lane_pos: 10, ego_lane_id: -1, npc_speed_factor: 1.25, 
+Permutation: 889
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 42, ego_lane_pos: 10, ego_lane_id: -1, npc_speed_factor: 1.625, 
+Permutation: 890
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 42, ego_lane_pos: 10, ego_lane_id: -1, npc_speed_factor: 2.0, 
+Permutation: 891
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 42, ego_lane_pos: 10, ego_lane_id: -1.9, npc_speed_factor: 1.25, 
+Permutation: 892
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 42, ego_lane_pos: 10, ego_lane_id: -1.9, npc_speed_factor: 1.625, 
+Permutation: 893
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 42, ego_lane_pos: 10, ego_lane_id: -1.9, npc_speed_factor: 2.0, 
+Permutation: 894
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 42, ego_lane_pos: 10, ego_lane_id: -2.1, npc_speed_factor: 1.25, 
+Permutation: 895
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 42, ego_lane_pos: 10, ego_lane_id: -2.1, npc_speed_factor: 1.625, 
+Permutation: 896
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 42, ego_lane_pos: 10, ego_lane_id: -2.1, npc_speed_factor: 2.0, 
+Permutation: 897
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 42, ego_lane_pos: 10, ego_lane_id: -3, npc_speed_factor: 1.25, 
+Permutation: 898
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 42, ego_lane_pos: 10, ego_lane_id: -3, npc_speed_factor: 1.625, 
+Permutation: 899
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 42, ego_lane_pos: 10, ego_lane_id: -3, npc_speed_factor: 2.0, 
+Permutation: 900
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 42, ego_lane_pos: 15, ego_lane_id: -1, npc_speed_factor: 1.25, 
+Permutation: 901
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 42, ego_lane_pos: 15, ego_lane_id: -1, npc_speed_factor: 1.625, 
+Permutation: 902
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 42, ego_lane_pos: 15, ego_lane_id: -1, npc_speed_factor: 2.0, 
+Permutation: 903
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 42, ego_lane_pos: 15, ego_lane_id: -1.9, npc_speed_factor: 1.25, 
+Permutation: 904
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 42, ego_lane_pos: 15, ego_lane_id: -1.9, npc_speed_factor: 1.625, 
+Permutation: 905
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 42, ego_lane_pos: 15, ego_lane_id: -1.9, npc_speed_factor: 2.0, 
+Permutation: 906
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 42, ego_lane_pos: 15, ego_lane_id: -2.1, npc_speed_factor: 1.25, 
+Permutation: 907
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 42, ego_lane_pos: 15, ego_lane_id: -2.1, npc_speed_factor: 1.625, 
+Permutation: 908
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 42, ego_lane_pos: 15, ego_lane_id: -2.1, npc_speed_factor: 2.0, 
+Permutation: 909
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 42, ego_lane_pos: 15, ego_lane_id: -3, npc_speed_factor: 1.25, 
+Permutation: 910
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 42, ego_lane_pos: 15, ego_lane_id: -3, npc_speed_factor: 1.625, 
+Permutation: 911
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 42, ego_lane_pos: 15, ego_lane_id: -3, npc_speed_factor: 2.0, 
+Permutation: 912
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 43, ego_lane_pos: 10, ego_lane_id: -1, npc_speed_factor: 1.25, 
+Permutation: 913
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 43, ego_lane_pos: 10, ego_lane_id: -1, npc_speed_factor: 1.625, 
+Permutation: 914
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 43, ego_lane_pos: 10, ego_lane_id: -1, npc_speed_factor: 2.0, 
+Permutation: 915
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 43, ego_lane_pos: 10, ego_lane_id: -1.9, npc_speed_factor: 1.25, 
+Permutation: 916
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 43, ego_lane_pos: 10, ego_lane_id: -1.9, npc_speed_factor: 1.625, 
+Permutation: 917
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 43, ego_lane_pos: 10, ego_lane_id: -1.9, npc_speed_factor: 2.0, 
+Permutation: 918
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 43, ego_lane_pos: 10, ego_lane_id: -2.1, npc_speed_factor: 1.25, 
+Permutation: 919
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 43, ego_lane_pos: 10, ego_lane_id: -2.1, npc_speed_factor: 1.625, 
+Permutation: 920
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 43, ego_lane_pos: 10, ego_lane_id: -2.1, npc_speed_factor: 2.0, 
+Permutation: 921
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 43, ego_lane_pos: 10, ego_lane_id: -3, npc_speed_factor: 1.25, 
+Permutation: 922
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 43, ego_lane_pos: 10, ego_lane_id: -3, npc_speed_factor: 1.625, 
+Permutation: 923
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 43, ego_lane_pos: 10, ego_lane_id: -3, npc_speed_factor: 2.0, 
+Permutation: 924
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 43, ego_lane_pos: 15, ego_lane_id: -1, npc_speed_factor: 1.25, 
+Permutation: 925
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 43, ego_lane_pos: 15, ego_lane_id: -1, npc_speed_factor: 1.625, 
+Permutation: 926
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 43, ego_lane_pos: 15, ego_lane_id: -1, npc_speed_factor: 2.0, 
+Permutation: 927
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 43, ego_lane_pos: 15, ego_lane_id: -1.9, npc_speed_factor: 1.25, 
+Permutation: 928
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 43, ego_lane_pos: 15, ego_lane_id: -1.9, npc_speed_factor: 1.625, 
+Permutation: 929
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 43, ego_lane_pos: 15, ego_lane_id: -1.9, npc_speed_factor: 2.0, 
+Permutation: 930
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 43, ego_lane_pos: 15, ego_lane_id: -2.1, npc_speed_factor: 1.25, 
+Permutation: 931
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 43, ego_lane_pos: 15, ego_lane_id: -2.1, npc_speed_factor: 1.625, 
+Permutation: 932
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 43, ego_lane_pos: 15, ego_lane_id: -2.1, npc_speed_factor: 2.0, 
+Permutation: 933
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 43, ego_lane_pos: 15, ego_lane_id: -3, npc_speed_factor: 1.25, 
+Permutation: 934
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 43, ego_lane_pos: 15, ego_lane_id: -3, npc_speed_factor: 1.625, 
+Permutation: 935
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 43, ego_lane_pos: 15, ego_lane_id: -3, npc_speed_factor: 2.0, 
+Permutation: 936
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 44, ego_lane_pos: 10, ego_lane_id: -1, npc_speed_factor: 1.25, 
+Permutation: 937
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 44, ego_lane_pos: 10, ego_lane_id: -1, npc_speed_factor: 1.625, 
+Permutation: 938
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 44, ego_lane_pos: 10, ego_lane_id: -1, npc_speed_factor: 2.0, 
+Permutation: 939
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 44, ego_lane_pos: 10, ego_lane_id: -1.9, npc_speed_factor: 1.25, 
+Permutation: 940
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 44, ego_lane_pos: 10, ego_lane_id: -1.9, npc_speed_factor: 1.625, 
+Permutation: 941
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 44, ego_lane_pos: 10, ego_lane_id: -1.9, npc_speed_factor: 2.0, 
+Permutation: 942
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 44, ego_lane_pos: 10, ego_lane_id: -2.1, npc_speed_factor: 1.25, 
+Permutation: 943
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 44, ego_lane_pos: 10, ego_lane_id: -2.1, npc_speed_factor: 1.625, 
+Permutation: 944
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 44, ego_lane_pos: 10, ego_lane_id: -2.1, npc_speed_factor: 2.0, 
+Permutation: 945
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 44, ego_lane_pos: 10, ego_lane_id: -3, npc_speed_factor: 1.25, 
+Permutation: 946
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 44, ego_lane_pos: 10, ego_lane_id: -3, npc_speed_factor: 1.625, 
+Permutation: 947
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 44, ego_lane_pos: 10, ego_lane_id: -3, npc_speed_factor: 2.0, 
+Permutation: 948
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 44, ego_lane_pos: 15, ego_lane_id: -1, npc_speed_factor: 1.25, 
+Permutation: 949
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 44, ego_lane_pos: 15, ego_lane_id: -1, npc_speed_factor: 1.625, 
+Permutation: 950
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 44, ego_lane_pos: 15, ego_lane_id: -1, npc_speed_factor: 2.0, 
+Permutation: 951
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 44, ego_lane_pos: 15, ego_lane_id: -1.9, npc_speed_factor: 1.25, 
+Permutation: 952
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 44, ego_lane_pos: 15, ego_lane_id: -1.9, npc_speed_factor: 1.625, 
+Permutation: 953
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 44, ego_lane_pos: 15, ego_lane_id: -1.9, npc_speed_factor: 2.0, 
+Permutation: 954
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 44, ego_lane_pos: 15, ego_lane_id: -2.1, npc_speed_factor: 1.25, 
+Permutation: 955
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 44, ego_lane_pos: 15, ego_lane_id: -2.1, npc_speed_factor: 1.625, 
+Permutation: 956
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 44, ego_lane_pos: 15, ego_lane_id: -2.1, npc_speed_factor: 2.0, 
+Permutation: 957
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 44, ego_lane_pos: 15, ego_lane_id: -3, npc_speed_factor: 1.25, 
+Permutation: 958
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 44, ego_lane_pos: 15, ego_lane_id: -3, npc_speed_factor: 1.625, 
+Permutation: 959
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 44, ego_lane_pos: 15, ego_lane_id: -3, npc_speed_factor: 2.0, 
+Permutation: 960
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 45, ego_lane_pos: 10, ego_lane_id: -1, npc_speed_factor: 1.25, 
+Permutation: 961
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 45, ego_lane_pos: 10, ego_lane_id: -1, npc_speed_factor: 1.625, 
+Permutation: 962
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 45, ego_lane_pos: 10, ego_lane_id: -1, npc_speed_factor: 2.0, 
+Permutation: 963
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 45, ego_lane_pos: 10, ego_lane_id: -1.9, npc_speed_factor: 1.25, 
+Permutation: 964
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 45, ego_lane_pos: 10, ego_lane_id: -1.9, npc_speed_factor: 1.625, 
+Permutation: 965
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 45, ego_lane_pos: 10, ego_lane_id: -1.9, npc_speed_factor: 2.0, 
+Permutation: 966
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 45, ego_lane_pos: 10, ego_lane_id: -2.1, npc_speed_factor: 1.25, 
+Permutation: 967
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 45, ego_lane_pos: 10, ego_lane_id: -2.1, npc_speed_factor: 1.625, 
+Permutation: 968
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 45, ego_lane_pos: 10, ego_lane_id: -2.1, npc_speed_factor: 2.0, 
+Permutation: 969
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 45, ego_lane_pos: 10, ego_lane_id: -3, npc_speed_factor: 1.25, 
+Permutation: 970
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 45, ego_lane_pos: 10, ego_lane_id: -3, npc_speed_factor: 1.625, 
+Permutation: 971
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 45, ego_lane_pos: 10, ego_lane_id: -3, npc_speed_factor: 2.0, 
+Permutation: 972
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 45, ego_lane_pos: 15, ego_lane_id: -1, npc_speed_factor: 1.25, 
+Permutation: 973
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 45, ego_lane_pos: 15, ego_lane_id: -1, npc_speed_factor: 1.625, 
+Permutation: 974
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 45, ego_lane_pos: 15, ego_lane_id: -1, npc_speed_factor: 2.0, 
+Permutation: 975
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 45, ego_lane_pos: 15, ego_lane_id: -1.9, npc_speed_factor: 1.25, 
+Permutation: 976
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 45, ego_lane_pos: 15, ego_lane_id: -1.9, npc_speed_factor: 1.625, 
+Permutation: 977
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 45, ego_lane_pos: 15, ego_lane_id: -1.9, npc_speed_factor: 2.0, 
+Permutation: 978
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 45, ego_lane_pos: 15, ego_lane_id: -2.1, npc_speed_factor: 1.25, 
+Permutation: 979
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 45, ego_lane_pos: 15, ego_lane_id: -2.1, npc_speed_factor: 1.625, 
+Permutation: 980
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 45, ego_lane_pos: 15, ego_lane_id: -2.1, npc_speed_factor: 2.0, 
+Permutation: 981
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 45, ego_lane_pos: 15, ego_lane_id: -3, npc_speed_factor: 1.25, 
+Permutation: 982
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 45, ego_lane_pos: 15, ego_lane_id: -3, npc_speed_factor: 1.625, 
+Permutation: 983
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 45, ego_lane_pos: 15, ego_lane_id: -3, npc_speed_factor: 2.0, 
+Permutation: 984
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 46, ego_lane_pos: 10, ego_lane_id: -1, npc_speed_factor: 1.25, 
+Permutation: 985
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 46, ego_lane_pos: 10, ego_lane_id: -1, npc_speed_factor: 1.625, 
+Permutation: 986
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 46, ego_lane_pos: 10, ego_lane_id: -1, npc_speed_factor: 2.0, 
+Permutation: 987
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 46, ego_lane_pos: 10, ego_lane_id: -1.9, npc_speed_factor: 1.25, 
+Permutation: 988
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 46, ego_lane_pos: 10, ego_lane_id: -1.9, npc_speed_factor: 1.625, 
+Permutation: 989
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 46, ego_lane_pos: 10, ego_lane_id: -1.9, npc_speed_factor: 2.0, 
+Permutation: 990
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 46, ego_lane_pos: 10, ego_lane_id: -2.1, npc_speed_factor: 1.25, 
+Permutation: 991
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 46, ego_lane_pos: 10, ego_lane_id: -2.1, npc_speed_factor: 1.625, 
+Permutation: 992
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 46, ego_lane_pos: 10, ego_lane_id: -2.1, npc_speed_factor: 2.0, 
+Permutation: 993
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 46, ego_lane_pos: 10, ego_lane_id: -3, npc_speed_factor: 1.25, 
+Permutation: 994
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 46, ego_lane_pos: 10, ego_lane_id: -3, npc_speed_factor: 1.625, 
+Permutation: 995
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 46, ego_lane_pos: 10, ego_lane_id: -3, npc_speed_factor: 2.0, 
+Permutation: 996
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 46, ego_lane_pos: 15, ego_lane_id: -1, npc_speed_factor: 1.25, 
+Permutation: 997
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 46, ego_lane_pos: 15, ego_lane_id: -1, npc_speed_factor: 1.625, 
+Permutation: 998
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 46, ego_lane_pos: 15, ego_lane_id: -1, npc_speed_factor: 2.0, 
+Permutation: 999
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 46, ego_lane_pos: 15, ego_lane_id: -1.9, npc_speed_factor: 1.25, 
+Permutation: 1000
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 46, ego_lane_pos: 15, ego_lane_id: -1.9, npc_speed_factor: 1.625, 
+Permutation: 1001
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 46, ego_lane_pos: 15, ego_lane_id: -1.9, npc_speed_factor: 2.0, 
+Permutation: 1002
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 46, ego_lane_pos: 15, ego_lane_id: -2.1, npc_speed_factor: 1.25, 
+Permutation: 1003
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 46, ego_lane_pos: 15, ego_lane_id: -2.1, npc_speed_factor: 1.625, 
+Permutation: 1004
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 46, ego_lane_pos: 15, ego_lane_id: -2.1, npc_speed_factor: 2.0, 
+Permutation: 1005
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 46, ego_lane_pos: 15, ego_lane_id: -3, npc_speed_factor: 1.25, 
+Permutation: 1006
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 46, ego_lane_pos: 15, ego_lane_id: -3, npc_speed_factor: 1.625, 
+Permutation: 1007
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 46, ego_lane_pos: 15, ego_lane_id: -3, npc_speed_factor: 2.0, 
+Permutation: 1008
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 47, ego_lane_pos: 10, ego_lane_id: -1, npc_speed_factor: 1.25, 
+Permutation: 1009
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 47, ego_lane_pos: 10, ego_lane_id: -1, npc_speed_factor: 1.625, 
+Permutation: 1010
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 47, ego_lane_pos: 10, ego_lane_id: -1, npc_speed_factor: 2.0, 
+Permutation: 1011
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 47, ego_lane_pos: 10, ego_lane_id: -1.9, npc_speed_factor: 1.25, 
+Permutation: 1012
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 47, ego_lane_pos: 10, ego_lane_id: -1.9, npc_speed_factor: 1.625, 
+Permutation: 1013
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 47, ego_lane_pos: 10, ego_lane_id: -1.9, npc_speed_factor: 2.0, 
+Permutation: 1014
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 47, ego_lane_pos: 10, ego_lane_id: -2.1, npc_speed_factor: 1.25, 
+Permutation: 1015
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 47, ego_lane_pos: 10, ego_lane_id: -2.1, npc_speed_factor: 1.625, 
+Permutation: 1016
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 47, ego_lane_pos: 10, ego_lane_id: -2.1, npc_speed_factor: 2.0, 
+Permutation: 1017
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 47, ego_lane_pos: 10, ego_lane_id: -3, npc_speed_factor: 1.25, 
+Permutation: 1018
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 47, ego_lane_pos: 10, ego_lane_id: -3, npc_speed_factor: 1.625, 
+Permutation: 1019
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 47, ego_lane_pos: 10, ego_lane_id: -3, npc_speed_factor: 2.0, 
+Permutation: 1020
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 47, ego_lane_pos: 15, ego_lane_id: -1, npc_speed_factor: 1.25, 
+Permutation: 1021
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 47, ego_lane_pos: 15, ego_lane_id: -1, npc_speed_factor: 1.625, 
+Permutation: 1022
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 47, ego_lane_pos: 15, ego_lane_id: -1, npc_speed_factor: 2.0, 
+Permutation: 1023
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 47, ego_lane_pos: 15, ego_lane_id: -1.9, npc_speed_factor: 1.25, 
+Permutation: 1024
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 47, ego_lane_pos: 15, ego_lane_id: -1.9, npc_speed_factor: 1.625, 
+Permutation: 1025
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 47, ego_lane_pos: 15, ego_lane_id: -1.9, npc_speed_factor: 2.0, 
+Permutation: 1026
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 47, ego_lane_pos: 15, ego_lane_id: -2.1, npc_speed_factor: 1.25, 
+Permutation: 1027
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 47, ego_lane_pos: 15, ego_lane_id: -2.1, npc_speed_factor: 1.625, 
+Permutation: 1028
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 47, ego_lane_pos: 15, ego_lane_id: -2.1, npc_speed_factor: 2.0, 
+Permutation: 1029
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 47, ego_lane_pos: 15, ego_lane_id: -3, npc_speed_factor: 1.25, 
+Permutation: 1030
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 47, ego_lane_pos: 15, ego_lane_id: -3, npc_speed_factor: 1.625, 
+Permutation: 1031
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 47, ego_lane_pos: 15, ego_lane_id: -3, npc_speed_factor: 2.0, 
+Permutation: 1032
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 48, ego_lane_pos: 10, ego_lane_id: -1, npc_speed_factor: 1.25, 
+Permutation: 1033
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 48, ego_lane_pos: 10, ego_lane_id: -1, npc_speed_factor: 1.625, 
+Permutation: 1034
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 48, ego_lane_pos: 10, ego_lane_id: -1, npc_speed_factor: 2.0, 
+Permutation: 1035
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 48, ego_lane_pos: 10, ego_lane_id: -1.9, npc_speed_factor: 1.25, 
+Permutation: 1036
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 48, ego_lane_pos: 10, ego_lane_id: -1.9, npc_speed_factor: 1.625, 
+Permutation: 1037
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 48, ego_lane_pos: 10, ego_lane_id: -1.9, npc_speed_factor: 2.0, 
+Permutation: 1038
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 48, ego_lane_pos: 10, ego_lane_id: -2.1, npc_speed_factor: 1.25, 
+Permutation: 1039
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 48, ego_lane_pos: 10, ego_lane_id: -2.1, npc_speed_factor: 1.625, 
+Permutation: 1040
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 48, ego_lane_pos: 10, ego_lane_id: -2.1, npc_speed_factor: 2.0, 
+Permutation: 1041
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 48, ego_lane_pos: 10, ego_lane_id: -3, npc_speed_factor: 1.25, 
+Permutation: 1042
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 48, ego_lane_pos: 10, ego_lane_id: -3, npc_speed_factor: 1.625, 
+Permutation: 1043
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 48, ego_lane_pos: 10, ego_lane_id: -3, npc_speed_factor: 2.0, 
+Permutation: 1044
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 48, ego_lane_pos: 15, ego_lane_id: -1, npc_speed_factor: 1.25, 
+Permutation: 1045
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 48, ego_lane_pos: 15, ego_lane_id: -1, npc_speed_factor: 1.625, 
+Permutation: 1046
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 48, ego_lane_pos: 15, ego_lane_id: -1, npc_speed_factor: 2.0, 
+Permutation: 1047
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 48, ego_lane_pos: 15, ego_lane_id: -1.9, npc_speed_factor: 1.25, 
+Permutation: 1048
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 48, ego_lane_pos: 15, ego_lane_id: -1.9, npc_speed_factor: 1.625, 
+Permutation: 1049
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 48, ego_lane_pos: 15, ego_lane_id: -1.9, npc_speed_factor: 2.0, 
+Permutation: 1050
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 48, ego_lane_pos: 15, ego_lane_id: -2.1, npc_speed_factor: 1.25, 
+Permutation: 1051
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 48, ego_lane_pos: 15, ego_lane_id: -2.1, npc_speed_factor: 1.625, 
+Permutation: 1052
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 48, ego_lane_pos: 15, ego_lane_id: -2.1, npc_speed_factor: 2.0, 
+Permutation: 1053
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 48, ego_lane_pos: 15, ego_lane_id: -3, npc_speed_factor: 1.25, 
+Permutation: 1054
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 48, ego_lane_pos: 15, ego_lane_id: -3, npc_speed_factor: 1.625, 
+Permutation: 1055
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 48, ego_lane_pos: 15, ego_lane_id: -3, npc_speed_factor: 2.0, 
+Permutation: 1056
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 49, ego_lane_pos: 10, ego_lane_id: -1, npc_speed_factor: 1.25, 
+Permutation: 1057
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 49, ego_lane_pos: 10, ego_lane_id: -1, npc_speed_factor: 1.625, 
+Permutation: 1058
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 49, ego_lane_pos: 10, ego_lane_id: -1, npc_speed_factor: 2.0, 
+Permutation: 1059
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 49, ego_lane_pos: 10, ego_lane_id: -1.9, npc_speed_factor: 1.25, 
+Permutation: 1060
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 49, ego_lane_pos: 10, ego_lane_id: -1.9, npc_speed_factor: 1.625, 
+Permutation: 1061
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 49, ego_lane_pos: 10, ego_lane_id: -1.9, npc_speed_factor: 2.0, 
+Permutation: 1062
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 49, ego_lane_pos: 10, ego_lane_id: -2.1, npc_speed_factor: 1.25, 
+Permutation: 1063
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 49, ego_lane_pos: 10, ego_lane_id: -2.1, npc_speed_factor: 1.625, 
+Permutation: 1064
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 49, ego_lane_pos: 10, ego_lane_id: -2.1, npc_speed_factor: 2.0, 
+Permutation: 1065
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 49, ego_lane_pos: 10, ego_lane_id: -3, npc_speed_factor: 1.25, 
+Permutation: 1066
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 49, ego_lane_pos: 10, ego_lane_id: -3, npc_speed_factor: 1.625, 
+Permutation: 1067
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 49, ego_lane_pos: 10, ego_lane_id: -3, npc_speed_factor: 2.0, 
+Permutation: 1068
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 49, ego_lane_pos: 15, ego_lane_id: -1, npc_speed_factor: 1.25, 
+Permutation: 1069
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 49, ego_lane_pos: 15, ego_lane_id: -1, npc_speed_factor: 1.625, 
+Permutation: 1070
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 49, ego_lane_pos: 15, ego_lane_id: -1, npc_speed_factor: 2.0, 
+Permutation: 1071
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 49, ego_lane_pos: 15, ego_lane_id: -1.9, npc_speed_factor: 1.25, 
+Permutation: 1072
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 49, ego_lane_pos: 15, ego_lane_id: -1.9, npc_speed_factor: 1.625, 
+Permutation: 1073
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 49, ego_lane_pos: 15, ego_lane_id: -1.9, npc_speed_factor: 2.0, 
+Permutation: 1074
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 49, ego_lane_pos: 15, ego_lane_id: -2.1, npc_speed_factor: 1.25, 
+Permutation: 1075
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 49, ego_lane_pos: 15, ego_lane_id: -2.1, npc_speed_factor: 1.625, 
+Permutation: 1076
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 49, ego_lane_pos: 15, ego_lane_id: -2.1, npc_speed_factor: 2.0, 
+Permutation: 1077
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 49, ego_lane_pos: 15, ego_lane_id: -3, npc_speed_factor: 1.25, 
+Permutation: 1078
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 49, ego_lane_pos: 15, ego_lane_id: -3, npc_speed_factor: 1.625, 
+Permutation: 1079
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 49, ego_lane_pos: 15, ego_lane_id: -3, npc_speed_factor: 2.0, 
+Permutation: 1080
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 50, ego_lane_pos: 10, ego_lane_id: -1, npc_speed_factor: 1.25, 
+Permutation: 1081
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 50, ego_lane_pos: 10, ego_lane_id: -1, npc_speed_factor: 1.625, 
+Permutation: 1082
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 50, ego_lane_pos: 10, ego_lane_id: -1, npc_speed_factor: 2.0, 
+Permutation: 1083
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 50, ego_lane_pos: 10, ego_lane_id: -1.9, npc_speed_factor: 1.25, 
+Permutation: 1084
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 50, ego_lane_pos: 10, ego_lane_id: -1.9, npc_speed_factor: 1.625, 
+Permutation: 1085
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 50, ego_lane_pos: 10, ego_lane_id: -1.9, npc_speed_factor: 2.0, 
+Permutation: 1086
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 50, ego_lane_pos: 10, ego_lane_id: -2.1, npc_speed_factor: 1.25, 
+Permutation: 1087
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 50, ego_lane_pos: 10, ego_lane_id: -2.1, npc_speed_factor: 1.625, 
+Permutation: 1088
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 50, ego_lane_pos: 10, ego_lane_id: -2.1, npc_speed_factor: 2.0, 
+Permutation: 1089
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 50, ego_lane_pos: 10, ego_lane_id: -3, npc_speed_factor: 1.25, 
+Permutation: 1090
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 50, ego_lane_pos: 10, ego_lane_id: -3, npc_speed_factor: 1.625, 
+Permutation: 1091
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 50, ego_lane_pos: 10, ego_lane_id: -3, npc_speed_factor: 2.0, 
+Permutation: 1092
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 50, ego_lane_pos: 15, ego_lane_id: -1, npc_speed_factor: 1.25, 
+Permutation: 1093
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 50, ego_lane_pos: 15, ego_lane_id: -1, npc_speed_factor: 1.625, 
+Permutation: 1094
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 50, ego_lane_pos: 15, ego_lane_id: -1, npc_speed_factor: 2.0, 
+Permutation: 1095
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 50, ego_lane_pos: 15, ego_lane_id: -1.9, npc_speed_factor: 1.25, 
+Permutation: 1096
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 50, ego_lane_pos: 15, ego_lane_id: -1.9, npc_speed_factor: 1.625, 
+Permutation: 1097
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 50, ego_lane_pos: 15, ego_lane_id: -1.9, npc_speed_factor: 2.0, 
+Permutation: 1098
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 50, ego_lane_pos: 15, ego_lane_id: -2.1, npc_speed_factor: 1.25, 
+Permutation: 1099
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 50, ego_lane_pos: 15, ego_lane_id: -2.1, npc_speed_factor: 1.625, 
+Permutation: 1100
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 50, ego_lane_pos: 15, ego_lane_id: -2.1, npc_speed_factor: 2.0, 
+Permutation: 1101
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 50, ego_lane_pos: 15, ego_lane_id: -3, npc_speed_factor: 1.25, 
+Permutation: 1102
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 50, ego_lane_pos: 15, ego_lane_id: -3, npc_speed_factor: 1.625, 
+Permutation: 1103
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 50, ego_lane_pos: 15, ego_lane_id: -3, npc_speed_factor: 2.0, 
+Permutation: 1104
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 51, ego_lane_pos: 10, ego_lane_id: -1, npc_speed_factor: 1.25, 
+Permutation: 1105
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 51, ego_lane_pos: 10, ego_lane_id: -1, npc_speed_factor: 1.625, 
+Permutation: 1106
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 51, ego_lane_pos: 10, ego_lane_id: -1, npc_speed_factor: 2.0, 
+Permutation: 1107
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 51, ego_lane_pos: 10, ego_lane_id: -1.9, npc_speed_factor: 1.25, 
+Permutation: 1108
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 51, ego_lane_pos: 10, ego_lane_id: -1.9, npc_speed_factor: 1.625, 
+Permutation: 1109
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 51, ego_lane_pos: 10, ego_lane_id: -1.9, npc_speed_factor: 2.0, 
+Permutation: 1110
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 51, ego_lane_pos: 10, ego_lane_id: -2.1, npc_speed_factor: 1.25, 
+Permutation: 1111
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 51, ego_lane_pos: 10, ego_lane_id: -2.1, npc_speed_factor: 1.625, 
+Permutation: 1112
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 51, ego_lane_pos: 10, ego_lane_id: -2.1, npc_speed_factor: 2.0, 
+Permutation: 1113
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 51, ego_lane_pos: 10, ego_lane_id: -3, npc_speed_factor: 1.25, 
+Permutation: 1114
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 51, ego_lane_pos: 10, ego_lane_id: -3, npc_speed_factor: 1.625, 
+Permutation: 1115
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 51, ego_lane_pos: 10, ego_lane_id: -3, npc_speed_factor: 2.0, 
+Permutation: 1116
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 51, ego_lane_pos: 15, ego_lane_id: -1, npc_speed_factor: 1.25, 
+Permutation: 1117
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 51, ego_lane_pos: 15, ego_lane_id: -1, npc_speed_factor: 1.625, 
+Permutation: 1118
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 51, ego_lane_pos: 15, ego_lane_id: -1, npc_speed_factor: 2.0, 
+Permutation: 1119
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 51, ego_lane_pos: 15, ego_lane_id: -1.9, npc_speed_factor: 1.25, 
+Permutation: 1120
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 51, ego_lane_pos: 15, ego_lane_id: -1.9, npc_speed_factor: 1.625, 
+Permutation: 1121
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 51, ego_lane_pos: 15, ego_lane_id: -1.9, npc_speed_factor: 2.0, 
+Permutation: 1122
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 51, ego_lane_pos: 15, ego_lane_id: -2.1, npc_speed_factor: 1.25, 
+Permutation: 1123
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 51, ego_lane_pos: 15, ego_lane_id: -2.1, npc_speed_factor: 1.625, 
+Permutation: 1124
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 51, ego_lane_pos: 15, ego_lane_id: -2.1, npc_speed_factor: 2.0, 
+Permutation: 1125
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 51, ego_lane_pos: 15, ego_lane_id: -3, npc_speed_factor: 1.25, 
+Permutation: 1126
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 51, ego_lane_pos: 15, ego_lane_id: -3, npc_speed_factor: 1.625, 
+Permutation: 1127
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 51, ego_lane_pos: 15, ego_lane_id: -3, npc_speed_factor: 2.0, 
+Permutation: 1128
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 52, ego_lane_pos: 10, ego_lane_id: -1, npc_speed_factor: 1.25, 
+Permutation: 1129
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 52, ego_lane_pos: 10, ego_lane_id: -1, npc_speed_factor: 1.625, 
+Permutation: 1130
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 52, ego_lane_pos: 10, ego_lane_id: -1, npc_speed_factor: 2.0, 
+Permutation: 1131
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 52, ego_lane_pos: 10, ego_lane_id: -1.9, npc_speed_factor: 1.25, 
+Permutation: 1132
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 52, ego_lane_pos: 10, ego_lane_id: -1.9, npc_speed_factor: 1.625, 
+Permutation: 1133
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 52, ego_lane_pos: 10, ego_lane_id: -1.9, npc_speed_factor: 2.0, 
+Permutation: 1134
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 52, ego_lane_pos: 10, ego_lane_id: -2.1, npc_speed_factor: 1.25, 
+Permutation: 1135
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 52, ego_lane_pos: 10, ego_lane_id: -2.1, npc_speed_factor: 1.625, 
+Permutation: 1136
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 52, ego_lane_pos: 10, ego_lane_id: -2.1, npc_speed_factor: 2.0, 
+Permutation: 1137
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 52, ego_lane_pos: 10, ego_lane_id: -3, npc_speed_factor: 1.25, 
+Permutation: 1138
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 52, ego_lane_pos: 10, ego_lane_id: -3, npc_speed_factor: 1.625, 
+Permutation: 1139
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 52, ego_lane_pos: 10, ego_lane_id: -3, npc_speed_factor: 2.0, 
+Permutation: 1140
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 52, ego_lane_pos: 15, ego_lane_id: -1, npc_speed_factor: 1.25, 
+Permutation: 1141
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 52, ego_lane_pos: 15, ego_lane_id: -1, npc_speed_factor: 1.625, 
+Permutation: 1142
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 52, ego_lane_pos: 15, ego_lane_id: -1, npc_speed_factor: 2.0, 
+Permutation: 1143
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 52, ego_lane_pos: 15, ego_lane_id: -1.9, npc_speed_factor: 1.25, 
+Permutation: 1144
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 52, ego_lane_pos: 15, ego_lane_id: -1.9, npc_speed_factor: 1.625, 
+Permutation: 1145
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 52, ego_lane_pos: 15, ego_lane_id: -1.9, npc_speed_factor: 2.0, 
+Permutation: 1146
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 52, ego_lane_pos: 15, ego_lane_id: -2.1, npc_speed_factor: 1.25, 
+Permutation: 1147
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 52, ego_lane_pos: 15, ego_lane_id: -2.1, npc_speed_factor: 1.625, 
+Permutation: 1148
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 52, ego_lane_pos: 15, ego_lane_id: -2.1, npc_speed_factor: 2.0, 
+Permutation: 1149
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 52, ego_lane_pos: 15, ego_lane_id: -3, npc_speed_factor: 1.25, 
+Permutation: 1150
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 52, ego_lane_pos: 15, ego_lane_id: -3, npc_speed_factor: 1.625, 
+Permutation: 1151
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 52, ego_lane_pos: 15, ego_lane_id: -3, npc_speed_factor: 2.0, 
+Permutation: 1152
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 53, ego_lane_pos: 10, ego_lane_id: -1, npc_speed_factor: 1.25, 
+Permutation: 1153
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 53, ego_lane_pos: 10, ego_lane_id: -1, npc_speed_factor: 1.625, 
+Permutation: 1154
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 53, ego_lane_pos: 10, ego_lane_id: -1, npc_speed_factor: 2.0, 
+Permutation: 1155
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 53, ego_lane_pos: 10, ego_lane_id: -1.9, npc_speed_factor: 1.25, 
+Permutation: 1156
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 53, ego_lane_pos: 10, ego_lane_id: -1.9, npc_speed_factor: 1.625, 
+Permutation: 1157
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 53, ego_lane_pos: 10, ego_lane_id: -1.9, npc_speed_factor: 2.0, 
+Permutation: 1158
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 53, ego_lane_pos: 10, ego_lane_id: -2.1, npc_speed_factor: 1.25, 
+Permutation: 1159
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 53, ego_lane_pos: 10, ego_lane_id: -2.1, npc_speed_factor: 1.625, 
+Permutation: 1160
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 53, ego_lane_pos: 10, ego_lane_id: -2.1, npc_speed_factor: 2.0, 
+Permutation: 1161
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 53, ego_lane_pos: 10, ego_lane_id: -3, npc_speed_factor: 1.25, 
+Permutation: 1162
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 53, ego_lane_pos: 10, ego_lane_id: -3, npc_speed_factor: 1.625, 
+Permutation: 1163
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 53, ego_lane_pos: 10, ego_lane_id: -3, npc_speed_factor: 2.0, 
+Permutation: 1164
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 53, ego_lane_pos: 15, ego_lane_id: -1, npc_speed_factor: 1.25, 
+Permutation: 1165
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 53, ego_lane_pos: 15, ego_lane_id: -1, npc_speed_factor: 1.625, 
+Permutation: 1166
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 53, ego_lane_pos: 15, ego_lane_id: -1, npc_speed_factor: 2.0, 
+Permutation: 1167
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 53, ego_lane_pos: 15, ego_lane_id: -1.9, npc_speed_factor: 1.25, 
+Permutation: 1168
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 53, ego_lane_pos: 15, ego_lane_id: -1.9, npc_speed_factor: 1.625, 
+Permutation: 1169
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 53, ego_lane_pos: 15, ego_lane_id: -1.9, npc_speed_factor: 2.0, 
+Permutation: 1170
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 53, ego_lane_pos: 15, ego_lane_id: -2.1, npc_speed_factor: 1.25, 
+Permutation: 1171
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 53, ego_lane_pos: 15, ego_lane_id: -2.1, npc_speed_factor: 1.625, 
+Permutation: 1172
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 53, ego_lane_pos: 15, ego_lane_id: -2.1, npc_speed_factor: 2.0, 
+Permutation: 1173
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 53, ego_lane_pos: 15, ego_lane_id: -3, npc_speed_factor: 1.25, 
+Permutation: 1174
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 53, ego_lane_pos: 15, ego_lane_id: -3, npc_speed_factor: 1.625, 
+Permutation: 1175
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 53, ego_lane_pos: 15, ego_lane_id: -3, npc_speed_factor: 2.0, 
+Permutation: 1176
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 54, ego_lane_pos: 10, ego_lane_id: -1, npc_speed_factor: 1.25, 
+Permutation: 1177
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 54, ego_lane_pos: 10, ego_lane_id: -1, npc_speed_factor: 1.625, 
+Permutation: 1178
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 54, ego_lane_pos: 10, ego_lane_id: -1, npc_speed_factor: 2.0, 
+Permutation: 1179
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 54, ego_lane_pos: 10, ego_lane_id: -1.9, npc_speed_factor: 1.25, 
+Permutation: 1180
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 54, ego_lane_pos: 10, ego_lane_id: -1.9, npc_speed_factor: 1.625, 
+Permutation: 1181
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 54, ego_lane_pos: 10, ego_lane_id: -1.9, npc_speed_factor: 2.0, 
+Permutation: 1182
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 54, ego_lane_pos: 10, ego_lane_id: -2.1, npc_speed_factor: 1.25, 
+Permutation: 1183
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 54, ego_lane_pos: 10, ego_lane_id: -2.1, npc_speed_factor: 1.625, 
+Permutation: 1184
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 54, ego_lane_pos: 10, ego_lane_id: -2.1, npc_speed_factor: 2.0, 
+Permutation: 1185
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 54, ego_lane_pos: 10, ego_lane_id: -3, npc_speed_factor: 1.25, 
+Permutation: 1186
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 54, ego_lane_pos: 10, ego_lane_id: -3, npc_speed_factor: 1.625, 
+Permutation: 1187
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 54, ego_lane_pos: 10, ego_lane_id: -3, npc_speed_factor: 2.0, 
+Permutation: 1188
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 54, ego_lane_pos: 15, ego_lane_id: -1, npc_speed_factor: 1.25, 
+Permutation: 1189
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 54, ego_lane_pos: 15, ego_lane_id: -1, npc_speed_factor: 1.625, 
+Permutation: 1190
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 54, ego_lane_pos: 15, ego_lane_id: -1, npc_speed_factor: 2.0, 
+Permutation: 1191
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 54, ego_lane_pos: 15, ego_lane_id: -1.9, npc_speed_factor: 1.25, 
+Permutation: 1192
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 54, ego_lane_pos: 15, ego_lane_id: -1.9, npc_speed_factor: 1.625, 
+Permutation: 1193
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 54, ego_lane_pos: 15, ego_lane_id: -1.9, npc_speed_factor: 2.0, 
+Permutation: 1194
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 54, ego_lane_pos: 15, ego_lane_id: -2.1, npc_speed_factor: 1.25, 
+Permutation: 1195
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 54, ego_lane_pos: 15, ego_lane_id: -2.1, npc_speed_factor: 1.625, 
+Permutation: 1196
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 54, ego_lane_pos: 15, ego_lane_id: -2.1, npc_speed_factor: 2.0, 
+Permutation: 1197
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 54, ego_lane_pos: 15, ego_lane_id: -3, npc_speed_factor: 1.25, 
+Permutation: 1198
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 54, ego_lane_pos: 15, ego_lane_id: -3, npc_speed_factor: 1.625, 
+Permutation: 1199
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 54, ego_lane_pos: 15, ego_lane_id: -3, npc_speed_factor: 2.0, 
+Permutation: 1200
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 55, ego_lane_pos: 10, ego_lane_id: -1, npc_speed_factor: 1.25, 
+Permutation: 1201
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 55, ego_lane_pos: 10, ego_lane_id: -1, npc_speed_factor: 1.625, 
+Permutation: 1202
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 55, ego_lane_pos: 10, ego_lane_id: -1, npc_speed_factor: 2.0, 
+Permutation: 1203
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 55, ego_lane_pos: 10, ego_lane_id: -1.9, npc_speed_factor: 1.25, 
+Permutation: 1204
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 55, ego_lane_pos: 10, ego_lane_id: -1.9, npc_speed_factor: 1.625, 
+Permutation: 1205
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 55, ego_lane_pos: 10, ego_lane_id: -1.9, npc_speed_factor: 2.0, 
+Permutation: 1206
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 55, ego_lane_pos: 10, ego_lane_id: -2.1, npc_speed_factor: 1.25, 
+Permutation: 1207
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 55, ego_lane_pos: 10, ego_lane_id: -2.1, npc_speed_factor: 1.625, 
+Permutation: 1208
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 55, ego_lane_pos: 10, ego_lane_id: -2.1, npc_speed_factor: 2.0, 
+Permutation: 1209
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 55, ego_lane_pos: 10, ego_lane_id: -3, npc_speed_factor: 1.25, 
+Permutation: 1210
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 55, ego_lane_pos: 10, ego_lane_id: -3, npc_speed_factor: 1.625, 
+Permutation: 1211
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 55, ego_lane_pos: 10, ego_lane_id: -3, npc_speed_factor: 2.0, 
+Permutation: 1212
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 55, ego_lane_pos: 15, ego_lane_id: -1, npc_speed_factor: 1.25, 
+Permutation: 1213
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 55, ego_lane_pos: 15, ego_lane_id: -1, npc_speed_factor: 1.625, 
+Permutation: 1214
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 55, ego_lane_pos: 15, ego_lane_id: -1, npc_speed_factor: 2.0, 
+Permutation: 1215
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 55, ego_lane_pos: 15, ego_lane_id: -1.9, npc_speed_factor: 1.25, 
+Permutation: 1216
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 55, ego_lane_pos: 15, ego_lane_id: -1.9, npc_speed_factor: 1.625, 
+Permutation: 1217
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 55, ego_lane_pos: 15, ego_lane_id: -1.9, npc_speed_factor: 2.0, 
+Permutation: 1218
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 55, ego_lane_pos: 15, ego_lane_id: -2.1, npc_speed_factor: 1.25, 
+Permutation: 1219
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 55, ego_lane_pos: 15, ego_lane_id: -2.1, npc_speed_factor: 1.625, 
+Permutation: 1220
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 55, ego_lane_pos: 15, ego_lane_id: -2.1, npc_speed_factor: 2.0, 
+Permutation: 1221
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 55, ego_lane_pos: 15, ego_lane_id: -3, npc_speed_factor: 1.25, 
+Permutation: 1222
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 55, ego_lane_pos: 15, ego_lane_id: -3, npc_speed_factor: 1.625, 
+Permutation: 1223
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 55, ego_lane_pos: 15, ego_lane_id: -3, npc_speed_factor: 2.0, 
+Permutation: 1224
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 56, ego_lane_pos: 10, ego_lane_id: -1, npc_speed_factor: 1.25, 
+Permutation: 1225
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 56, ego_lane_pos: 10, ego_lane_id: -1, npc_speed_factor: 1.625, 
+Permutation: 1226
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 56, ego_lane_pos: 10, ego_lane_id: -1, npc_speed_factor: 2.0, 
+Permutation: 1227
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 56, ego_lane_pos: 10, ego_lane_id: -1.9, npc_speed_factor: 1.25, 
+Permutation: 1228
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 56, ego_lane_pos: 10, ego_lane_id: -1.9, npc_speed_factor: 1.625, 
+Permutation: 1229
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 56, ego_lane_pos: 10, ego_lane_id: -1.9, npc_speed_factor: 2.0, 
+Permutation: 1230
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 56, ego_lane_pos: 10, ego_lane_id: -2.1, npc_speed_factor: 1.25, 
+Permutation: 1231
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 56, ego_lane_pos: 10, ego_lane_id: -2.1, npc_speed_factor: 1.625, 
+Permutation: 1232
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 56, ego_lane_pos: 10, ego_lane_id: -2.1, npc_speed_factor: 2.0, 
+Permutation: 1233
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 56, ego_lane_pos: 10, ego_lane_id: -3, npc_speed_factor: 1.25, 
+Permutation: 1234
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 56, ego_lane_pos: 10, ego_lane_id: -3, npc_speed_factor: 1.625, 
+Permutation: 1235
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 56, ego_lane_pos: 10, ego_lane_id: -3, npc_speed_factor: 2.0, 
+Permutation: 1236
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 56, ego_lane_pos: 15, ego_lane_id: -1, npc_speed_factor: 1.25, 
+Permutation: 1237
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 56, ego_lane_pos: 15, ego_lane_id: -1, npc_speed_factor: 1.625, 
+Permutation: 1238
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 56, ego_lane_pos: 15, ego_lane_id: -1, npc_speed_factor: 2.0, 
+Permutation: 1239
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 56, ego_lane_pos: 15, ego_lane_id: -1.9, npc_speed_factor: 1.25, 
+Permutation: 1240
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 56, ego_lane_pos: 15, ego_lane_id: -1.9, npc_speed_factor: 1.625, 
+Permutation: 1241
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 56, ego_lane_pos: 15, ego_lane_id: -1.9, npc_speed_factor: 2.0, 
+Permutation: 1242
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 56, ego_lane_pos: 15, ego_lane_id: -2.1, npc_speed_factor: 1.25, 
+Permutation: 1243
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 56, ego_lane_pos: 15, ego_lane_id: -2.1, npc_speed_factor: 1.625, 
+Permutation: 1244
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 56, ego_lane_pos: 15, ego_lane_id: -2.1, npc_speed_factor: 2.0, 
+Permutation: 1245
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 56, ego_lane_pos: 15, ego_lane_id: -3, npc_speed_factor: 1.25, 
+Permutation: 1246
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 56, ego_lane_pos: 15, ego_lane_id: -3, npc_speed_factor: 1.625, 
+Permutation: 1247
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 56, ego_lane_pos: 15, ego_lane_id: -3, npc_speed_factor: 2.0, 
+Permutation: 1248
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 57, ego_lane_pos: 10, ego_lane_id: -1, npc_speed_factor: 1.25, 
+Permutation: 1249
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 57, ego_lane_pos: 10, ego_lane_id: -1, npc_speed_factor: 1.625, 
+Permutation: 1250
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 57, ego_lane_pos: 10, ego_lane_id: -1, npc_speed_factor: 2.0, 
+Permutation: 1251
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 57, ego_lane_pos: 10, ego_lane_id: -1.9, npc_speed_factor: 1.25, 
+Permutation: 1252
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 57, ego_lane_pos: 10, ego_lane_id: -1.9, npc_speed_factor: 1.625, 
+Permutation: 1253
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 57, ego_lane_pos: 10, ego_lane_id: -1.9, npc_speed_factor: 2.0, 
+Permutation: 1254
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 57, ego_lane_pos: 10, ego_lane_id: -2.1, npc_speed_factor: 1.25, 
+Permutation: 1255
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 57, ego_lane_pos: 10, ego_lane_id: -2.1, npc_speed_factor: 1.625, 
+Permutation: 1256
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 57, ego_lane_pos: 10, ego_lane_id: -2.1, npc_speed_factor: 2.0, 
+Permutation: 1257
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 57, ego_lane_pos: 10, ego_lane_id: -3, npc_speed_factor: 1.25, 
+Permutation: 1258
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 57, ego_lane_pos: 10, ego_lane_id: -3, npc_speed_factor: 1.625, 
+Permutation: 1259
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 57, ego_lane_pos: 10, ego_lane_id: -3, npc_speed_factor: 2.0, 
+Permutation: 1260
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 57, ego_lane_pos: 15, ego_lane_id: -1, npc_speed_factor: 1.25, 
+Permutation: 1261
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 57, ego_lane_pos: 15, ego_lane_id: -1, npc_speed_factor: 1.625, 
+Permutation: 1262
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 57, ego_lane_pos: 15, ego_lane_id: -1, npc_speed_factor: 2.0, 
+Permutation: 1263
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 57, ego_lane_pos: 15, ego_lane_id: -1.9, npc_speed_factor: 1.25, 
+Permutation: 1264
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 57, ego_lane_pos: 15, ego_lane_id: -1.9, npc_speed_factor: 1.625, 
+Permutation: 1265
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 57, ego_lane_pos: 15, ego_lane_id: -1.9, npc_speed_factor: 2.0, 
+Permutation: 1266
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 57, ego_lane_pos: 15, ego_lane_id: -2.1, npc_speed_factor: 1.25, 
+Permutation: 1267
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 57, ego_lane_pos: 15, ego_lane_id: -2.1, npc_speed_factor: 1.625, 
+Permutation: 1268
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 57, ego_lane_pos: 15, ego_lane_id: -2.1, npc_speed_factor: 2.0, 
+Permutation: 1269
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 57, ego_lane_pos: 15, ego_lane_id: -3, npc_speed_factor: 1.25, 
+Permutation: 1270
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 57, ego_lane_pos: 15, ego_lane_id: -3, npc_speed_factor: 1.625, 
+Permutation: 1271
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 57, ego_lane_pos: 15, ego_lane_id: -3, npc_speed_factor: 2.0, 
+Permutation: 1272
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 58, ego_lane_pos: 10, ego_lane_id: -1, npc_speed_factor: 1.25, 
+Permutation: 1273
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 58, ego_lane_pos: 10, ego_lane_id: -1, npc_speed_factor: 1.625, 
+Permutation: 1274
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 58, ego_lane_pos: 10, ego_lane_id: -1, npc_speed_factor: 2.0, 
+Permutation: 1275
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 58, ego_lane_pos: 10, ego_lane_id: -1.9, npc_speed_factor: 1.25, 
+Permutation: 1276
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 58, ego_lane_pos: 10, ego_lane_id: -1.9, npc_speed_factor: 1.625, 
+Permutation: 1277
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 58, ego_lane_pos: 10, ego_lane_id: -1.9, npc_speed_factor: 2.0, 
+Permutation: 1278
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 58, ego_lane_pos: 10, ego_lane_id: -2.1, npc_speed_factor: 1.25, 
+Permutation: 1279
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 58, ego_lane_pos: 10, ego_lane_id: -2.1, npc_speed_factor: 1.625, 
+Permutation: 1280
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 58, ego_lane_pos: 10, ego_lane_id: -2.1, npc_speed_factor: 2.0, 
+Permutation: 1281
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 58, ego_lane_pos: 10, ego_lane_id: -3, npc_speed_factor: 1.25, 
+Permutation: 1282
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 58, ego_lane_pos: 10, ego_lane_id: -3, npc_speed_factor: 1.625, 
+Permutation: 1283
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 58, ego_lane_pos: 10, ego_lane_id: -3, npc_speed_factor: 2.0, 
+Permutation: 1284
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 58, ego_lane_pos: 15, ego_lane_id: -1, npc_speed_factor: 1.25, 
+Permutation: 1285
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 58, ego_lane_pos: 15, ego_lane_id: -1, npc_speed_factor: 1.625, 
+Permutation: 1286
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 58, ego_lane_pos: 15, ego_lane_id: -1, npc_speed_factor: 2.0, 
+Permutation: 1287
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 58, ego_lane_pos: 15, ego_lane_id: -1.9, npc_speed_factor: 1.25, 
+Permutation: 1288
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 58, ego_lane_pos: 15, ego_lane_id: -1.9, npc_speed_factor: 1.625, 
+Permutation: 1289
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 58, ego_lane_pos: 15, ego_lane_id: -1.9, npc_speed_factor: 2.0, 
+Permutation: 1290
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 58, ego_lane_pos: 15, ego_lane_id: -2.1, npc_speed_factor: 1.25, 
+Permutation: 1291
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 58, ego_lane_pos: 15, ego_lane_id: -2.1, npc_speed_factor: 1.625, 
+Permutation: 1292
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 58, ego_lane_pos: 15, ego_lane_id: -2.1, npc_speed_factor: 2.0, 
+Permutation: 1293
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 58, ego_lane_pos: 15, ego_lane_id: -3, npc_speed_factor: 1.25, 
+Permutation: 1294
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 58, ego_lane_pos: 15, ego_lane_id: -3, npc_speed_factor: 1.625, 
+Permutation: 1295
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 58, ego_lane_pos: 15, ego_lane_id: -3, npc_speed_factor: 2.0, 
+Permutation: 1296
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 59, ego_lane_pos: 10, ego_lane_id: -1, npc_speed_factor: 1.25, 
+Permutation: 1297
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 59, ego_lane_pos: 10, ego_lane_id: -1, npc_speed_factor: 1.625, 
+Permutation: 1298
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 59, ego_lane_pos: 10, ego_lane_id: -1, npc_speed_factor: 2.0, 
+Permutation: 1299
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 59, ego_lane_pos: 10, ego_lane_id: -1.9, npc_speed_factor: 1.25, 
+Permutation: 1300
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 59, ego_lane_pos: 10, ego_lane_id: -1.9, npc_speed_factor: 1.625, 
+Permutation: 1301
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 59, ego_lane_pos: 10, ego_lane_id: -1.9, npc_speed_factor: 2.0, 
+Permutation: 1302
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 59, ego_lane_pos: 10, ego_lane_id: -2.1, npc_speed_factor: 1.25, 
+Permutation: 1303
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 59, ego_lane_pos: 10, ego_lane_id: -2.1, npc_speed_factor: 1.625, 
+Permutation: 1304
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 59, ego_lane_pos: 10, ego_lane_id: -2.1, npc_speed_factor: 2.0, 
+Permutation: 1305
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 59, ego_lane_pos: 10, ego_lane_id: -3, npc_speed_factor: 1.25, 
+Permutation: 1306
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 59, ego_lane_pos: 10, ego_lane_id: -3, npc_speed_factor: 1.625, 
+Permutation: 1307
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 59, ego_lane_pos: 10, ego_lane_id: -3, npc_speed_factor: 2.0, 
+Permutation: 1308
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 59, ego_lane_pos: 15, ego_lane_id: -1, npc_speed_factor: 1.25, 
+Permutation: 1309
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 59, ego_lane_pos: 15, ego_lane_id: -1, npc_speed_factor: 1.625, 
+Permutation: 1310
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 59, ego_lane_pos: 15, ego_lane_id: -1, npc_speed_factor: 2.0, 
+Permutation: 1311
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 59, ego_lane_pos: 15, ego_lane_id: -1.9, npc_speed_factor: 1.25, 
+Permutation: 1312
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 59, ego_lane_pos: 15, ego_lane_id: -1.9, npc_speed_factor: 1.625, 
+Permutation: 1313
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 59, ego_lane_pos: 15, ego_lane_id: -1.9, npc_speed_factor: 2.0, 
+Permutation: 1314
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 59, ego_lane_pos: 15, ego_lane_id: -2.1, npc_speed_factor: 1.25, 
+Permutation: 1315
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 59, ego_lane_pos: 15, ego_lane_id: -2.1, npc_speed_factor: 1.625, 
+Permutation: 1316
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 59, ego_lane_pos: 15, ego_lane_id: -2.1, npc_speed_factor: 2.0, 
+Permutation: 1317
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 59, ego_lane_pos: 15, ego_lane_id: -3, npc_speed_factor: 1.25, 
+Permutation: 1318
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 59, ego_lane_pos: 15, ego_lane_id: -3, npc_speed_factor: 1.625, 
+Permutation: 1319
+road: <class 'generation.roads._straight.Straight'>, ego_speed: 59, ego_lane_pos: 15, ego_lane_id: -3, npc_speed_factor: 2.0, 
